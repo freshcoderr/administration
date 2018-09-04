@@ -1,0 +1,529 @@
+{
+    "辽宁省": {
+        "大连市": [
+            {
+                "code": "210200", 
+                "type": "just_name_change", 
+                "name": "旅大市", 
+                "level": 3
+            }
+        ], 
+        "铁岭地区": [
+            {
+                "code": "212102", 
+                "type": "add", 
+                "name": "铁法市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "河北省": {
+        "廊坊地区": [
+            {
+                "code": "132801", 
+                "type": "add", 
+                "name": "廊坊市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "山东省": {
+        "潍坊地区": [
+            {
+                "code": "372200", 
+                "type": "just_name_change", 
+                "name": "昌潍地区", 
+                "level": 3
+            }
+        ]
+    }, 
+    "福建省": {
+        "龙岩地区": [
+            {
+                "code": "352701", 
+                "type": "add", 
+                "name": "龙岩市", 
+                "level": 3
+            }, 
+            {
+                "code": "352721", 
+                "type": "del", 
+                "name": "龙岩县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "四川省": {
+        "乐山地区": [
+            {
+                "code": "512533", 
+                "type": "add", 
+                "name": "峨边县", 
+                "level": 3
+            }, 
+            {
+                "code": "512534", 
+                "type": "add", 
+                "name": "马边县", 
+                "level": 3
+            }
+        ], 
+        "凉山彝族自治州": [
+            {
+                "code": "513425", 
+                "type": "del", 
+                "name": "马边县", 
+                "level": 3
+            }, 
+            {
+                "code": "513424", 
+                "type": "del", 
+                "name": "峨边县", 
+                "level": 3
+            }
+        ], 
+        "永川地区": [
+            {
+                "code": "512600", 
+                "type": "just_name_change", 
+                "name": "江津地区", 
+                "level": 3
+            }
+        ]
+    }, 
+    "内蒙古自治区": {
+        "巴彦淖尔盟": [
+            {
+                "code": "152727", 
+                "type": "just_name_change", 
+                "name": "潮格旗", 
+                "level": 3
+            }, 
+            {
+                "code": "152725", 
+                "type": "just_name_change", 
+                "name": "乌拉特中后联合旗", 
+                "level": 3
+            }
+        ]
+    }, 
+    "云南省": {
+        "昭通地区": [
+            {
+                "code": "532101", 
+                "type": "add", 
+                "name": "昭通市", 
+                "level": 3
+            }, 
+            {
+                "code": "532131", 
+                "type": "add", 
+                "name": "水富县", 
+                "level": 3
+            }
+        ], 
+        "思茅地区": [
+            {
+                "code": "532721", 
+                "type": "add", 
+                "name": "思茅县", 
+                "level": 3
+            }
+        ], 
+        "红河哈尼族彝族自治州": [
+            {
+                "code": "532502", 
+                "type": "add", 
+                "name": "开远市", 
+                "level": 3
+            }, 
+            {
+                "code": "532521", 
+                "type": "del", 
+                "name": "开远县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "上海市": [
+        {
+            "code": "310112", 
+            "type": "add", 
+            "name": "闵行区", 
+            "level": 2
+        }
+    ], 
+    "广西壮族自治区": {
+        "柳州地区": [
+            {
+                "code": "452201", 
+                "type": "add", 
+                "name": "合山市", 
+                "level": 3
+            }
+        ], 
+        "桂林市": [
+            {
+                "code": "450321", 
+                "type": "add", 
+                "name": "阳朔县", 
+                "level": 3
+            }
+        ], 
+        "桂林地区": [
+            {
+                "code": "452326", 
+                "type": "del", 
+                "name": "阳朔县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "湖南省": {
+        "怀化地区": [
+            {
+                "code": "433000", 
+                "type": "just_name_change", 
+                "name": "黔阳地区", 
+                "level": 3
+            }
+        ], 
+        "岳阳地区": [
+            {
+                "code": "432221", 
+                "type": "del", 
+                "name": "岳阳县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "贵州省": {
+        "安顺地区": [
+            {
+                "code": "522528", 
+                "type": "just_name_change", 
+                "name": "关岭县", 
+                "level": 3
+            }
+        ], 
+        "黔西南布依族苗族自治州": [
+            {
+                "code": "522328", 
+                "type": "just_name_change", 
+                "name": "安龙布依族苗族自治县", 
+                "level": 3
+            }, 
+            {
+                "code": "522300", 
+                "type": "just_name_change", 
+                "name": "兴义地区", 
+                "level": 3
+            }, 
+            {
+                "code": "522325", 
+                "type": "just_name_change", 
+                "name": "贞丰布依族苗族自治县", 
+                "level": 3
+            }, 
+            {
+                "code": "522326", 
+                "type": "just_name_change", 
+                "name": "望谟布依族苗族自治县", 
+                "level": 3
+            }, 
+            {
+                "code": "522327", 
+                "type": "just_name_change", 
+                "name": "册亨布依族自治县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "江苏省": {
+        "连云港市": [
+            {
+                "code": "320711", 
+                "type": "add", 
+                "name": "郊区", 
+                "level": 3
+            }
+        ]
+    }, 
+    "黑龙江省": {
+        "大兴安岭地区": [
+            {
+                "code": "232722", 
+                "type": "add", 
+                "name": "塔河县", 
+                "level": 3
+            }, 
+            {
+                "code": "232723", 
+                "type": "add", 
+                "name": "漠河县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "青海省": {
+        "黄南藏族自治州": [
+            {
+                "code": "632324", 
+                "type": "add", 
+                "name": "河南蒙古族自治县", 
+                "level": 3
+            }, 
+            {
+                "code": "632421", 
+                "type": "del", 
+                "name": "河南蒙古族自治县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "year": "1980-1981", 
+    "河南省": {
+        "洛阳地区": [
+            {
+                "code": "412502", 
+                "type": "add", 
+                "name": "义马市", 
+                "level": 3
+            }
+        ], 
+        "郑州市": [
+            {
+                "code": "410111", 
+                "type": "add", 
+                "name": "金海区", 
+                "level": 3
+            }
+        ]
+    }, 
+    "江西省": {
+        "九江市": [
+            {
+                "code": "360521", 
+                "type": "del", 
+                "name": "井冈山", 
+                "level": 3
+            }
+        ], 
+        "吉安地区": [
+            {
+                "code": "362533", 
+                "type": "add", 
+                "name": "井冈山县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "湖北省": {
+        "恩施地区": [
+            {
+                "code": "422801", 
+                "type": "add", 
+                "name": "恩施市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "甘肃省": {
+        "金昌市": [
+            {
+                "code": "620321", 
+                "type": "add", 
+                "name": "永昌县", 
+                "level": 3
+            }, 
+            {
+                "code": "620300", 
+                "type": "add", 
+                "name": "金昌市", 
+                "level": 3
+            }
+        ], 
+        "武威地区": [
+            {
+                "code": "622325", 
+                "type": "del", 
+                "name": "永昌县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "浙江省": {
+        "台州地区": [
+            {
+                "code": "332701", 
+                "type": "add", 
+                "name": "椒江市", 
+                "level": 3
+            }
+        ], 
+        "嘉兴地区": [
+            {
+                "code": "332121", 
+                "type": "del", 
+                "name": "嘉兴县", 
+                "level": 3
+            }, 
+            {
+                "code": "332128", 
+                "type": "del", 
+                "name": "吴兴县", 
+                "level": 3
+            }
+        ], 
+        "温州市": [
+            {
+                "code": "330323", 
+                "type": "add", 
+                "name": "瑞安县", 
+                "level": 3
+            }, 
+            {
+                "code": "330329", 
+                "type": "add", 
+                "name": "苍南县", 
+                "level": 3
+            }, 
+            {
+                "code": "330328", 
+                "type": "add", 
+                "name": "瓯海县", 
+                "level": 3
+            }, 
+            {
+                "code": "330325", 
+                "type": "add", 
+                "name": "平阳县", 
+                "level": 3
+            }, 
+            {
+                "code": "330324", 
+                "type": "add", 
+                "name": "文成县", 
+                "level": 3
+            }, 
+            {
+                "code": "330327", 
+                "type": "add", 
+                "name": "泰顺县", 
+                "level": 3
+            }, 
+            {
+                "code": "330326", 
+                "type": "add", 
+                "name": "乐清县", 
+                "level": 3
+            }, 
+            {
+                "code": "330321", 
+                "type": "add", 
+                "name": "洞头县", 
+                "level": 3
+            }, 
+            {
+                "code": "330322", 
+                "type": "add", 
+                "name": "永嘉县", 
+                "level": 3
+            }
+        ], 
+        "温州地区": [
+            {
+                "code": "332421", 
+                "type": "del", 
+                "name": "洞头县", 
+                "level": 3
+            }, 
+            {
+                "code": "332422", 
+                "type": "del", 
+                "name": "永嘉县", 
+                "level": 3
+            }, 
+            {
+                "code": "332423", 
+                "type": "del", 
+                "name": "瑞安县", 
+                "level": 3
+            }, 
+            {
+                "code": "332425", 
+                "type": "del", 
+                "name": "平阳县", 
+                "level": 3
+            }, 
+            {
+                "code": "332426", 
+                "type": "del", 
+                "name": "乐清县", 
+                "level": 3
+            }, 
+            {
+                "code": "332427", 
+                "type": "del", 
+                "name": "泰顺县", 
+                "level": 3
+            }, 
+            {
+                "code": "332400", 
+                "type": "del", 
+                "name": "温州地区", 
+                "level": 3
+            }, 
+            {
+                "code": "332424", 
+                "type": "del", 
+                "name": "文成县", 
+                "level": 3
+            }
+        ], 
+        "金华地区": [
+            {
+                "code": "332521", 
+                "type": "del", 
+                "name": "金华县", 
+                "level": 3
+            }, 
+            {
+                "code": "332528", 
+                "type": "del", 
+                "name": "衢县", 
+                "level": 3
+            }
+        ], 
+        "绍兴地区": [
+            {
+                "code": "332321", 
+                "type": "del", 
+                "name": "绍兴县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "广东省": {
+        "佛山地区": [
+            {
+                "code": "442732", 
+                "type": "add", 
+                "name": "高明县", 
+                "level": 3
+            }, 
+            {
+                "code": "442731", 
+                "type": "add", 
+                "name": "鹤山县", 
+                "level": 3
+            }, 
+            {
+                "code": "442730", 
+                "type": "del", 
+                "name": "高鹤县", 
+                "level": 3
+            }
+        ]
+    }
+}

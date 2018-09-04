@@ -1,0 +1,343 @@
+{
+    "山东省": {
+        "济南市": [
+            {
+                "code": "370215", 
+                "type": "add", 
+                "name": "即墨区", 
+                "level": 3
+            }, 
+            {
+                "code": "370282", 
+                "type": "del", 
+                "name": "即墨市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "福建省": {
+        "福州市": [
+            {
+                "code": "350112", 
+                "type": "add", 
+                "name": "长乐区", 
+                "level": 3
+            }, 
+            {
+                "code": "350182", 
+                "type": "del", 
+                "name": "长乐市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "陕西省": {
+        "西安市": [
+            {
+                "code": "610703", 
+                "type": "add", 
+                "name": "南郑区", 
+                "level": 3
+            }, 
+            {
+                "code": "610881", 
+                "type": "add", 
+                "name": "神木市", 
+                "level": 3
+            }, 
+            {
+                "code": "610721", 
+                "type": "del", 
+                "name": "南郑县", 
+                "level": 3
+            }, 
+            {
+                "code": "610821", 
+                "type": "del", 
+                "name": "神木县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "四川省": {
+        "成都市": [
+            {
+                "code": "511083", 
+                "type": "add", 
+                "name": "隆昌市", 
+                "level": 3
+            }, 
+            {
+                "code": "510604", 
+                "type": "add", 
+                "name": "罗江区", 
+                "level": 3
+            }, 
+            {
+                "code": "510626", 
+                "type": "del", 
+                "name": "罗江县", 
+                "level": 3
+            }, 
+            {
+                "code": "511028", 
+                "type": "del", 
+                "name": "隆昌县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "西藏自治区": {
+        "拉萨市": [
+            {
+                "code": "540630", 
+                "type": "add", 
+                "name": "双湖县", 
+                "level": 3
+            }, 
+            {
+                "code": "540621", 
+                "type": "add", 
+                "name": "嘉黎县", 
+                "level": 3
+            }, 
+            {
+                "code": "540623", 
+                "type": "add", 
+                "name": "聂荣县", 
+                "level": 3
+            }, 
+            {
+                "code": "540622", 
+                "type": "add", 
+                "name": "比如县", 
+                "level": 3
+            }, 
+            {
+                "code": "540625", 
+                "type": "add", 
+                "name": "申扎县", 
+                "level": 3
+            }, 
+            {
+                "code": "540624", 
+                "type": "add", 
+                "name": "安多县", 
+                "level": 3
+            }, 
+            {
+                "code": "540627", 
+                "type": "add", 
+                "name": "班戈县", 
+                "level": 3
+            }, 
+            {
+                "code": "540626", 
+                "type": "add", 
+                "name": "索县", 
+                "level": 3
+            }, 
+            {
+                "code": "540629", 
+                "type": "add", 
+                "name": "尼玛县", 
+                "level": 3
+            }, 
+            {
+                "code": "540602", 
+                "type": "add", 
+                "name": "色尼区", 
+                "level": 3
+            }, 
+            {
+                "code": "540600", 
+                "type": "add", 
+                "name": "那曲市", 
+                "level": 3
+            }, 
+            {
+                "code": "540104", 
+                "type": "add", 
+                "name": "达孜区", 
+                "level": 3
+            }, 
+            {
+                "code": "540628", 
+                "type": "add", 
+                "name": "巴青县", 
+                "level": 3
+            }, 
+            {
+                "code": "540126", 
+                "type": "del", 
+                "name": "达孜县", 
+                "level": 3
+            }, 
+            {
+                "code": "542430", 
+                "type": "del", 
+                "name": "尼玛县", 
+                "level": 3
+            }, 
+            {
+                "code": "542431", 
+                "type": "del", 
+                "name": "双湖县", 
+                "level": 3
+            }, 
+            {
+                "code": "542400", 
+                "type": "del", 
+                "name": "那曲地区", 
+                "level": 3
+            }, 
+            {
+                "code": "542429", 
+                "type": "del", 
+                "name": "巴青县", 
+                "level": 3
+            }, 
+            {
+                "code": "542428", 
+                "type": "del", 
+                "name": "班戈县", 
+                "level": 3
+            }, 
+            {
+                "code": "542421", 
+                "type": "del", 
+                "name": "那曲县", 
+                "level": 3
+            }, 
+            {
+                "code": "542423", 
+                "type": "del", 
+                "name": "比如县", 
+                "level": 3
+            }, 
+            {
+                "code": "542422", 
+                "type": "del", 
+                "name": "嘉黎县", 
+                "level": 3
+            }, 
+            {
+                "code": "542425", 
+                "type": "del", 
+                "name": "安多县", 
+                "level": 3
+            }, 
+            {
+                "code": "542424", 
+                "type": "del", 
+                "name": "聂荣县", 
+                "level": 3
+            }, 
+            {
+                "code": "542427", 
+                "type": "del", 
+                "name": "索县", 
+                "level": 3
+            }, 
+            {
+                "code": "542426", 
+                "type": "del", 
+                "name": "申扎县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "湖南省": {
+        "长沙市": [
+            {
+                "code": "430182", 
+                "type": "add", 
+                "name": "宁乡市", 
+                "level": 3
+            }, 
+            {
+                "code": "430124", 
+                "type": "del", 
+                "name": "宁乡县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "year": "2016-2017", 
+    "贵州省": {
+        "贵阳市": [
+            {
+                "code": "520281", 
+                "type": "add", 
+                "name": "盘州市", 
+                "level": 3
+            }, 
+            {
+                "code": "520222", 
+                "type": "del", 
+                "name": "盘县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "江西省": {
+        "南昌市": [
+            {
+                "code": "360404", 
+                "type": "add", 
+                "name": "柴桑区", 
+                "level": 3
+            }, 
+            {
+                "code": "360421", 
+                "type": "del", 
+                "name": "九江县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "浙江省": {
+        "杭州市": [
+            {
+                "code": "331083", 
+                "type": "add", 
+                "name": "玉环市", 
+                "level": 3
+            }, 
+            {
+                "code": "330112", 
+                "type": "add", 
+                "name": "临安区", 
+                "level": 3
+            }, 
+            {
+                "code": "330185", 
+                "type": "del", 
+                "name": "临安市", 
+                "level": 3
+            }, 
+            {
+                "code": "331021", 
+                "type": "del", 
+                "name": "玉环县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "河北省": {
+        "石家庄市": [
+            {
+                "code": "130881", 
+                "type": "add", 
+                "name": "平泉市", 
+                "level": 3
+            }, 
+            {
+                "code": "130823", 
+                "type": "del", 
+                "name": "平泉县", 
+                "level": 3
+            }
+        ]
+    }
+}

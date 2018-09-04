@@ -1,0 +1,119 @@
+{
+    "安徽省": {
+        "芜湖市": [
+            {
+                "code": "340208", 
+                "type": "add", 
+                "name": "三山区", 
+                "level": 3
+            }, 
+            {
+                "code": "340207", 
+                "type": "add", 
+                "name": "鸠江区", 
+                "level": 3
+            }, 
+            {
+                "code": "340205", 
+                "type": "del", 
+                "name": "鸠江区", 
+                "level": 3
+            }, 
+            {
+                "code": "340204", 
+                "type": "del", 
+                "name": "新芜区", 
+                "level": 3
+            }, 
+            {
+                "code": "340203", 
+                "type": "just_name_change", 
+                "name": "马塘区", 
+                "level": 3
+            }
+        ], 
+        "安庆市": [
+            {
+                "code": "340811", 
+                "type": "just_name_change", 
+                "name": "郊区", 
+                "level": 3
+            }
+        ]
+    }, 
+    "河南省": {
+        "开封市": [
+            {
+                "code": "410211", 
+                "type": "just_name_change", 
+                "name": "郊区", 
+                "level": 3
+            }, 
+            {
+                "code": "410205", 
+                "type": "just_name_change", 
+                "name": "南关区", 
+                "level": 3
+            }
+        ]
+    }, 
+    "陕西省": {
+        "延安市": [
+            {
+                "code": "610626", 
+                "type": "just_name_change", 
+                "name": "吴旗县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "湖南省": {
+        "永州市": [
+            {
+                "code": "431102", 
+                "type": "just_name_change", 
+                "name": "芝山区", 
+                "level": 3
+            }
+        ]
+    }, 
+    "year": "2004-2005", 
+    "浙江省": {
+        "嘉兴市": [
+            {
+                "code": "330402", 
+                "type": "just_name_change", 
+                "name": "秀城区", 
+                "level": 3
+            }
+        ]
+    }, 
+    "广东省": {
+        "广州市": [
+            {
+                "code": "440116", 
+                "type": "add", 
+                "name": "萝岗区", 
+                "level": 3
+            }, 
+            {
+                "code": "440115", 
+                "type": "add", 
+                "name": "南沙区", 
+                "level": 3
+            }, 
+            {
+                "code": "440107", 
+                "type": "del", 
+                "name": "芳村区", 
+                "level": 3
+            }, 
+            {
+                "code": "440102", 
+                "type": "del", 
+                "name": "东山区", 
+                "level": 3
+            }
+        ]
+    }
+}

@@ -1,0 +1,4095 @@
+{
+    "山东省": {
+        "枣庄市": [
+            {
+                "code": "370481", 
+                "type": "add", 
+                "name": "滕州市", 
+                "level": 3
+            }
+        ], 
+        "德州市": [
+            {
+                "code": "371482", 
+                "type": "add", 
+                "name": "禹城市", 
+                "level": 3
+            }, 
+            {
+                "code": "371481", 
+                "type": "add", 
+                "name": "乐陵市", 
+                "level": 3
+            }
+        ], 
+        "济南市": [
+            {
+                "code": "370181", 
+                "type": "add", 
+                "name": "章丘市", 
+                "level": 3
+            }
+        ], 
+        "济宁市": [
+            {
+                "code": "370881", 
+                "type": "add", 
+                "name": "曲阜市", 
+                "level": 3
+            }, 
+            {
+                "code": "370882", 
+                "type": "add", 
+                "name": "兖州市", 
+                "level": 3
+            }, 
+            {
+                "code": "370883", 
+                "type": "add", 
+                "name": "邹城市", 
+                "level": 3
+            }
+        ], 
+        "烟台市": [
+            {
+                "code": "370685", 
+                "type": "add", 
+                "name": "招远市", 
+                "level": 3
+            }, 
+            {
+                "code": "370683", 
+                "type": "add", 
+                "name": "莱州市", 
+                "level": 3
+            }, 
+            {
+                "code": "370681", 
+                "type": "add", 
+                "name": "龙口市", 
+                "level": 3
+            }, 
+            {
+                "code": "370686", 
+                "type": "add", 
+                "name": "栖霞市", 
+                "level": 3
+            }, 
+            {
+                "code": "370684", 
+                "type": "add", 
+                "name": "蓬莱市", 
+                "level": 3
+            }, 
+            {
+                "code": "370682", 
+                "type": "add", 
+                "name": "莱阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "370628", 
+                "type": "del", 
+                "name": "栖霞县", 
+                "level": 3
+            }
+        ], 
+        "菏泽地区": [
+            {
+                "code": "379001", 
+                "type": "del", 
+                "name": "青州市", 
+                "level": 3
+            }, 
+            {
+                "code": "379018", 
+                "type": "del", 
+                "name": "招远市", 
+                "level": 3
+            }, 
+            {
+                "code": "379019", 
+                "type": "del", 
+                "name": "肥城市", 
+                "level": 3
+            }, 
+            {
+                "code": "379010", 
+                "type": "del", 
+                "name": "滕州市", 
+                "level": 3
+            }, 
+            {
+                "code": "379011", 
+                "type": "del", 
+                "name": "文登市", 
+                "level": 3
+            }, 
+            {
+                "code": "379012", 
+                "type": "del", 
+                "name": "荣成市", 
+                "level": 3
+            }, 
+            {
+                "code": "379014", 
+                "type": "del", 
+                "name": "平度市", 
+                "level": 3
+            }, 
+            {
+                "code": "379016", 
+                "type": "del", 
+                "name": "胶南市", 
+                "level": 3
+            }, 
+            {
+                "code": "379017", 
+                "type": "del", 
+                "name": "蓬莱市", 
+                "level": 3
+            }, 
+            {
+                "code": "379008", 
+                "type": "del", 
+                "name": "莱阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "379005", 
+                "type": "del", 
+                "name": "新泰市", 
+                "level": 3
+            }, 
+            {
+                "code": "379003", 
+                "type": "del", 
+                "name": "曲阜市", 
+                "level": 3
+            }, 
+            {
+                "code": "379002", 
+                "type": "del", 
+                "name": "龙口市", 
+                "level": 3
+            }, 
+            {
+                "code": "379009", 
+                "type": "del", 
+                "name": "莱州市", 
+                "level": 3
+            }, 
+            {
+                "code": "379015", 
+                "type": "del", 
+                "name": "莱西市", 
+                "level": 3
+            }, 
+            {
+                "code": "379013", 
+                "type": "del", 
+                "name": "即墨市", 
+                "level": 3
+            }, 
+            {
+                "code": "379028", 
+                "type": "del", 
+                "name": "昌邑市", 
+                "level": 3
+            }, 
+            {
+                "code": "379025", 
+                "type": "del", 
+                "name": "乐陵市", 
+                "level": 3
+            }, 
+            {
+                "code": "379024", 
+                "type": "del", 
+                "name": "乳山市", 
+                "level": 3
+            }, 
+            {
+                "code": "379029", 
+                "type": "del", 
+                "name": "高密市", 
+                "level": 3
+            }, 
+            {
+                "code": "379006", 
+                "type": "del", 
+                "name": "胶州市", 
+                "level": 3
+            }, 
+            {
+                "code": "379007", 
+                "type": "del", 
+                "name": "诸城市", 
+                "level": 3
+            }, 
+            {
+                "code": "379027", 
+                "type": "del", 
+                "name": "安丘市", 
+                "level": 3
+            }, 
+            {
+                "code": "379026", 
+                "type": "del", 
+                "name": "禹城市", 
+                "level": 3
+            }, 
+            {
+                "code": "379021", 
+                "type": "del", 
+                "name": "兖州市", 
+                "level": 3
+            }, 
+            {
+                "code": "379020", 
+                "type": "del", 
+                "name": "章丘市", 
+                "level": 3
+            }, 
+            {
+                "code": "379023", 
+                "type": "del", 
+                "name": "寿光市", 
+                "level": 3
+            }, 
+            {
+                "code": "379022", 
+                "type": "del", 
+                "name": "邹城市", 
+                "level": 3
+            }
+        ], 
+        "潍坊市": [
+            {
+                "code": "370786", 
+                "type": "add", 
+                "name": "昌邑市", 
+                "level": 3
+            }, 
+            {
+                "code": "370785", 
+                "type": "add", 
+                "name": "高密市", 
+                "level": 3
+            }, 
+            {
+                "code": "370782", 
+                "type": "add", 
+                "name": "诸城市", 
+                "level": 3
+            }, 
+            {
+                "code": "370781", 
+                "type": "add", 
+                "name": "青州市", 
+                "level": 3
+            }, 
+            {
+                "code": "370784", 
+                "type": "add", 
+                "name": "安丘市", 
+                "level": 3
+            }, 
+            {
+                "code": "370783", 
+                "type": "add", 
+                "name": "寿光市", 
+                "level": 3
+            }
+        ], 
+        "泰安市": [
+            {
+                "code": "370983", 
+                "type": "add", 
+                "name": "肥城市", 
+                "level": 3
+            }, 
+            {
+                "code": "370982", 
+                "type": "add", 
+                "name": "新泰市", 
+                "level": 3
+            }
+        ], 
+        "青岛市": [
+            {
+                "code": "370283", 
+                "type": "add", 
+                "name": "平度市", 
+                "level": 3
+            }, 
+            {
+                "code": "370282", 
+                "type": "add", 
+                "name": "即墨市", 
+                "level": 3
+            }, 
+            {
+                "code": "370281", 
+                "type": "add", 
+                "name": "胶州市", 
+                "level": 3
+            }, 
+            {
+                "code": "370284", 
+                "type": "add", 
+                "name": "胶南市", 
+                "level": 3
+            }, 
+            {
+                "code": "370285", 
+                "type": "add", 
+                "name": "莱西市", 
+                "level": 3
+            }
+        ], 
+        "威海市": [
+            {
+                "code": "371083", 
+                "type": "add", 
+                "name": "乳山市", 
+                "level": 3
+            }, 
+            {
+                "code": "371082", 
+                "type": "add", 
+                "name": "荣成市", 
+                "level": 3
+            }, 
+            {
+                "code": "371081", 
+                "type": "add", 
+                "name": "文登市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "江苏省": {
+        "扬州市": [
+            {
+                "code": "321088", 
+                "type": "add", 
+                "name": "江都市", 
+                "level": 3
+            }, 
+            {
+                "code": "321086", 
+                "type": "add", 
+                "name": "泰兴市", 
+                "level": 3
+            }, 
+            {
+                "code": "321087", 
+                "type": "add", 
+                "name": "姜堰市", 
+                "level": 3
+            }, 
+            {
+                "code": "321084", 
+                "type": "add", 
+                "name": "高邮市", 
+                "level": 3
+            }, 
+            {
+                "code": "321085", 
+                "type": "add", 
+                "name": "靖江市", 
+                "level": 3
+            }, 
+            {
+                "code": "321082", 
+                "type": "add", 
+                "name": "泰州市", 
+                "level": 3
+            }, 
+            {
+                "code": "321083", 
+                "type": "add", 
+                "name": "兴化市", 
+                "level": 3
+            }, 
+            {
+                "code": "321081", 
+                "type": "add", 
+                "name": "仪征市", 
+                "level": 3
+            }
+        ], 
+        "常州市": [
+            {
+                "code": "320481", 
+                "type": "add", 
+                "name": "溧阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "320483", 
+                "type": "add", 
+                "name": "武进市", 
+                "level": 3
+            }, 
+            {
+                "code": "320482", 
+                "type": "add", 
+                "name": "金坛市", 
+                "level": 3
+            }, 
+            {
+                "code": "320421", 
+                "type": "del", 
+                "name": "武进县", 
+                "level": 3
+            }
+        ], 
+        "镇江市": [
+            {
+                "code": "321181", 
+                "type": "add", 
+                "name": "丹阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "321183", 
+                "type": "add", 
+                "name": "句容市", 
+                "level": 3
+            }, 
+            {
+                "code": "321182", 
+                "type": "add", 
+                "name": "扬中市", 
+                "level": 3
+            }, 
+            {
+                "code": "329008", 
+                "type": "del", 
+                "name": "东台市", 
+                "level": 3
+            }, 
+            {
+                "code": "329009", 
+                "type": "del", 
+                "name": "兴化市", 
+                "level": 3
+            }, 
+            {
+                "code": "329006", 
+                "type": "del", 
+                "name": "宿迁市", 
+                "level": 3
+            }, 
+            {
+                "code": "329007", 
+                "type": "del", 
+                "name": "丹阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "329004", 
+                "type": "del", 
+                "name": "张家港市", 
+                "level": 3
+            }, 
+            {
+                "code": "329005", 
+                "type": "del", 
+                "name": "江阴市", 
+                "level": 3
+            }, 
+            {
+                "code": "329002", 
+                "type": "del", 
+                "name": "仪征市", 
+                "level": 3
+            }, 
+            {
+                "code": "329003", 
+                "type": "del", 
+                "name": "常熟市", 
+                "level": 3
+            }, 
+            {
+                "code": "329001", 
+                "type": "del", 
+                "name": "泰州市", 
+                "level": 3
+            }, 
+            {
+                "code": "329019", 
+                "type": "del", 
+                "name": "邳州市", 
+                "level": 3
+            }, 
+            {
+                "code": "329018", 
+                "type": "del", 
+                "name": "吴江市", 
+                "level": 3
+            }, 
+            {
+                "code": "329015", 
+                "type": "del", 
+                "name": "溧阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "329014", 
+                "type": "del", 
+                "name": "新沂市", 
+                "level": 3
+            }, 
+            {
+                "code": "329017", 
+                "type": "del", 
+                "name": "高邮市", 
+                "level": 3
+            }, 
+            {
+                "code": "329016", 
+                "type": "del", 
+                "name": "如皋市", 
+                "level": 3
+            }, 
+            {
+                "code": "329011", 
+                "type": "del", 
+                "name": "宜兴市", 
+                "level": 3
+            }, 
+            {
+                "code": "329010", 
+                "type": "del", 
+                "name": "淮安市", 
+                "level": 3
+            }, 
+            {
+                "code": "329013", 
+                "type": "del", 
+                "name": "启东市", 
+                "level": 3
+            }, 
+            {
+                "code": "329012", 
+                "type": "del", 
+                "name": "昆山市", 
+                "level": 3
+            }, 
+            {
+                "code": "321123", 
+                "type": "del", 
+                "name": "句容县", 
+                "level": 3
+            }, 
+            {
+                "code": "329028", 
+                "type": "del", 
+                "name": "姜堰市", 
+                "level": 3
+            }, 
+            {
+                "code": "329020", 
+                "type": "del", 
+                "name": "泰兴市", 
+                "level": 3
+            }, 
+            {
+                "code": "329021", 
+                "type": "del", 
+                "name": "通州市", 
+                "level": 3
+            }, 
+            {
+                "code": "329022", 
+                "type": "del", 
+                "name": "太仓市", 
+                "level": 3
+            }, 
+            {
+                "code": "329023", 
+                "type": "del", 
+                "name": "靖江市", 
+                "level": 3
+            }, 
+            {
+                "code": "329024", 
+                "type": "del", 
+                "name": "金坛市", 
+                "level": 3
+            }, 
+            {
+                "code": "329025", 
+                "type": "del", 
+                "name": "江都市", 
+                "level": 3
+            }, 
+            {
+                "code": "329026", 
+                "type": "del", 
+                "name": "海门市", 
+                "level": 3
+            }, 
+            {
+                "code": "329027", 
+                "type": "del", 
+                "name": "扬中市", 
+                "level": 3
+            }
+        ], 
+        "无锡市": [
+            {
+                "code": "320283", 
+                "type": "add", 
+                "name": "锡山市", 
+                "level": 3
+            }, 
+            {
+                "code": "320282", 
+                "type": "add", 
+                "name": "宜兴市", 
+                "level": 3
+            }, 
+            {
+                "code": "320281", 
+                "type": "add", 
+                "name": "江阴市", 
+                "level": 3
+            }, 
+            {
+                "code": "320222", 
+                "type": "del", 
+                "name": "无锡县", 
+                "level": 3
+            }
+        ], 
+        "盐城市": [
+            {
+                "code": "320981", 
+                "type": "add", 
+                "name": "东台市", 
+                "level": 3
+            }
+        ], 
+        "徐州市": [
+            {
+                "code": "320382", 
+                "type": "add", 
+                "name": "邳州市", 
+                "level": 3
+            }, 
+            {
+                "code": "320381", 
+                "type": "add", 
+                "name": "新沂市", 
+                "level": 3
+            }, 
+            {
+                "code": "320304", 
+                "type": "just_name_change", 
+                "name": "矿区", 
+                "level": 3
+            }
+        ], 
+        "苏州市": [
+            {
+                "code": "320585", 
+                "type": "add", 
+                "name": "太仓市", 
+                "level": 3
+            }, 
+            {
+                "code": "320581", 
+                "type": "add", 
+                "name": "常熟市", 
+                "level": 3
+            }, 
+            {
+                "code": "320582", 
+                "type": "add", 
+                "name": "张家港市", 
+                "level": 3
+            }, 
+            {
+                "code": "320583", 
+                "type": "add", 
+                "name": "昆山市", 
+                "level": 3
+            }, 
+            {
+                "code": "320584", 
+                "type": "add", 
+                "name": "吴江市", 
+                "level": 3
+            }, 
+            {
+                "code": "320586", 
+                "type": "add", 
+                "name": "吴县市", 
+                "level": 3
+            }, 
+            {
+                "code": "320524", 
+                "type": "del", 
+                "name": "吴县", 
+                "level": 3
+            }
+        ], 
+        "淮阴市": [
+            {
+                "code": "320881", 
+                "type": "add", 
+                "name": "宿迁市", 
+                "level": 3
+            }, 
+            {
+                "code": "320882", 
+                "type": "add", 
+                "name": "淮安市", 
+                "level": 3
+            }
+        ], 
+        "南通市": [
+            {
+                "code": "320683", 
+                "type": "add", 
+                "name": "通州市", 
+                "level": 3
+            }, 
+            {
+                "code": "320684", 
+                "type": "add", 
+                "name": "海门市", 
+                "level": 3
+            }, 
+            {
+                "code": "320682", 
+                "type": "add", 
+                "name": "如皋市", 
+                "level": 3
+            }, 
+            {
+                "code": "320681", 
+                "type": "add", 
+                "name": "启东市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "山西省": {
+        "晋城市": [
+            {
+                "code": "140581", 
+                "type": "add", 
+                "name": "高平市", 
+                "level": 3
+            }
+        ], 
+        "太原市": [
+            {
+                "code": "140181", 
+                "type": "add", 
+                "name": "古交市", 
+                "level": 3
+            }
+        ], 
+        "长治市": [
+            {
+                "code": "140481", 
+                "type": "add", 
+                "name": "潞城市", 
+                "level": 3
+            }
+        ], 
+        "运城地区": [
+            {
+                "code": "149002", 
+                "type": "del", 
+                "name": "高平市", 
+                "level": 3
+            }, 
+            {
+                "code": "149003", 
+                "type": "del", 
+                "name": "潞城市", 
+                "level": 3
+            }, 
+            {
+                "code": "149001", 
+                "type": "del", 
+                "name": "古交市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "云南省": {
+        "昆明市": [
+            {
+                "code": "530181", 
+                "type": "add", 
+                "name": "安宁市", 
+                "level": 3
+            }, 
+            {
+                "code": "530123", 
+                "type": "del", 
+                "name": "安宁县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "广西壮族自治区": {
+        "贵港市": [
+            {
+                "code": "450821", 
+                "type": "add", 
+                "name": "平南县", 
+                "level": 3
+            }, 
+            {
+                "code": "450803", 
+                "type": "add", 
+                "name": "港南区", 
+                "level": 3
+            }, 
+            {
+                "code": "450802", 
+                "type": "add", 
+                "name": "港北区", 
+                "level": 3
+            }, 
+            {
+                "code": "450800", 
+                "type": "add", 
+                "name": "贵港市", 
+                "level": 3
+            }, 
+            {
+                "code": "450881", 
+                "type": "add", 
+                "name": "桂平市", 
+                "level": 3
+            }
+        ], 
+        "玉林地区": [
+            {
+                "code": "452503", 
+                "type": "del", 
+                "name": "桂平市", 
+                "level": 3
+            }, 
+            {
+                "code": "452524", 
+                "type": "del", 
+                "name": "平南县", 
+                "level": 3
+            }, 
+            {
+                "code": "452502", 
+                "type": "del", 
+                "name": "贵港市", 
+                "level": 3
+            }
+        ], 
+        "梧州地区": [
+            {
+                "code": "452401", 
+                "type": "add", 
+                "name": "岑溪市", 
+                "level": 3
+            }, 
+            {
+                "code": "452421", 
+                "type": "del", 
+                "name": "岑溪县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "安徽省": {
+        "池州地区": [
+            {
+                "code": "349001", 
+                "type": "del", 
+                "name": "天长市", 
+                "level": 3
+            }, 
+            {
+                "code": "349002", 
+                "type": "del", 
+                "name": "明光市", 
+                "level": 3
+            }
+        ], 
+        "滁州市": [
+            {
+                "code": "341181", 
+                "type": "add", 
+                "name": "天长市", 
+                "level": 3
+            }, 
+            {
+                "code": "341182", 
+                "type": "add", 
+                "name": "明光市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "year": "1994-1995", 
+    "江西省": {
+        "抚州地区": [
+            {
+                "code": "369001", 
+                "type": "del", 
+                "name": "瑞昌市", 
+                "level": 3
+            }, 
+            {
+                "code": "369002", 
+                "type": "del", 
+                "name": "乐平市", 
+                "level": 3
+            }
+        ], 
+        "九江市": [
+            {
+                "code": "360481", 
+                "type": "add", 
+                "name": "瑞昌市", 
+                "level": 3
+            }
+        ], 
+        "景德镇市": [
+            {
+                "code": "360281", 
+                "type": "add", 
+                "name": "乐平市", 
+                "level": 3
+            }
+        ], 
+        "赣州地区": [
+            {
+                "code": "362103", 
+                "type": "add", 
+                "name": "南康市", 
+                "level": 3
+            }, 
+            {
+                "code": "362122", 
+                "type": "del", 
+                "name": "南康县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "浙江省": {
+        "金华市": [
+            {
+                "code": "330783", 
+                "type": "add", 
+                "name": "东阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "330782", 
+                "type": "add", 
+                "name": "义乌市", 
+                "level": 3
+            }, 
+            {
+                "code": "330781", 
+                "type": "add", 
+                "name": "兰溪市", 
+                "level": 3
+            }, 
+            {
+                "code": "330784", 
+                "type": "add", 
+                "name": "永康市", 
+                "level": 3
+            }
+        ], 
+        "宁波市": [
+            {
+                "code": "330282", 
+                "type": "add", 
+                "name": "慈溪市", 
+                "level": 3
+            }, 
+            {
+                "code": "330283", 
+                "type": "add", 
+                "name": "奉化市", 
+                "level": 3
+            }, 
+            {
+                "code": "330281", 
+                "type": "add", 
+                "name": "余姚市", 
+                "level": 3
+            }
+        ], 
+        "台州市": [
+            {
+                "code": "331082", 
+                "type": "add", 
+                "name": "临海市", 
+                "level": 3
+            }, 
+            {
+                "code": "331081", 
+                "type": "add", 
+                "name": "温岭市", 
+                "level": 3
+            }
+        ], 
+        "温州市": [
+            {
+                "code": "330381", 
+                "type": "add", 
+                "name": "瑞安市", 
+                "level": 3
+            }, 
+            {
+                "code": "330382", 
+                "type": "add", 
+                "name": "乐清市", 
+                "level": 3
+            }
+        ], 
+        "杭州市": [
+            {
+                "code": "330184", 
+                "type": "add", 
+                "name": "余杭市", 
+                "level": 3
+            }, 
+            {
+                "code": "330181", 
+                "type": "add", 
+                "name": "萧山市", 
+                "level": 3
+            }, 
+            {
+                "code": "330183", 
+                "type": "add", 
+                "name": "富阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "330182", 
+                "type": "add", 
+                "name": "建德市", 
+                "level": 3
+            }
+        ], 
+        "绍兴市": [
+            {
+                "code": "330682", 
+                "type": "add", 
+                "name": "上虞市", 
+                "level": 3
+            }, 
+            {
+                "code": "330683", 
+                "type": "add", 
+                "name": "嵊州市", 
+                "level": 3
+            }, 
+            {
+                "code": "330681", 
+                "type": "add", 
+                "name": "诸暨市", 
+                "level": 3
+            }, 
+            {
+                "code": "330623", 
+                "type": "del", 
+                "name": "嵊县", 
+                "level": 3
+            }
+        ], 
+        "丽水地区": [
+            {
+                "code": "332582", 
+                "type": "add", 
+                "name": "丽水市", 
+                "level": 3
+            }, 
+            {
+                "code": "332581", 
+                "type": "add", 
+                "name": "龙泉市", 
+                "level": 3
+            }, 
+            {
+                "code": "332502", 
+                "type": "del", 
+                "name": "龙泉市", 
+                "level": 3
+            }, 
+            {
+                "code": "339006", 
+                "type": "del", 
+                "name": "江山市", 
+                "level": 3
+            }, 
+            {
+                "code": "339021", 
+                "type": "del", 
+                "name": "余杭市", 
+                "level": 3
+            }, 
+            {
+                "code": "339020", 
+                "type": "del", 
+                "name": "温岭市", 
+                "level": 3
+            }, 
+            {
+                "code": "339019", 
+                "type": "del", 
+                "name": "富阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "339014", 
+                "type": "del", 
+                "name": "永康市", 
+                "level": 3
+            }, 
+            {
+                "code": "339015", 
+                "type": "del", 
+                "name": "上虞市", 
+                "level": 3
+            }, 
+            {
+                "code": "339016", 
+                "type": "del", 
+                "name": "桐乡市", 
+                "level": 3
+            }, 
+            {
+                "code": "339017", 
+                "type": "del", 
+                "name": "乐清市", 
+                "level": 3
+            }, 
+            {
+                "code": "339010", 
+                "type": "del", 
+                "name": "奉化市", 
+                "level": 3
+            }, 
+            {
+                "code": "339011", 
+                "type": "del", 
+                "name": "诸暨市", 
+                "level": 3
+            }, 
+            {
+                "code": "339012", 
+                "type": "del", 
+                "name": "平湖市", 
+                "level": 3
+            }, 
+            {
+                "code": "339013", 
+                "type": "del", 
+                "name": "建德市", 
+                "level": 3
+            }, 
+            {
+                "code": "339009", 
+                "type": "del", 
+                "name": "慈溪市", 
+                "level": 3
+            }, 
+            {
+                "code": "339008", 
+                "type": "del", 
+                "name": "东阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "339003", 
+                "type": "del", 
+                "name": "兰溪市", 
+                "level": 3
+            }, 
+            {
+                "code": "339002", 
+                "type": "del", 
+                "name": "海宁市", 
+                "level": 3
+            }, 
+            {
+                "code": "339001", 
+                "type": "del", 
+                "name": "余姚市", 
+                "level": 3
+            }, 
+            {
+                "code": "339007", 
+                "type": "del", 
+                "name": "义乌市", 
+                "level": 3
+            }, 
+            {
+                "code": "339005", 
+                "type": "del", 
+                "name": "萧山市", 
+                "level": 3
+            }, 
+            {
+                "code": "339004", 
+                "type": "del", 
+                "name": "瑞安市", 
+                "level": 3
+            }, 
+            {
+                "code": "339018", 
+                "type": "del", 
+                "name": "临海市", 
+                "level": 3
+            }, 
+            {
+                "code": "332501", 
+                "type": "del", 
+                "name": "丽水市", 
+                "level": 3
+            }
+        ], 
+        "嘉兴市": [
+            {
+                "code": "330481", 
+                "type": "add", 
+                "name": "海宁市", 
+                "level": 3
+            }, 
+            {
+                "code": "330482", 
+                "type": "add", 
+                "name": "平湖市", 
+                "level": 3
+            }, 
+            {
+                "code": "330483", 
+                "type": "add", 
+                "name": "桐乡市", 
+                "level": 3
+            }
+        ], 
+        "衢州市": [
+            {
+                "code": "330881", 
+                "type": "add", 
+                "name": "江山市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "陕西省": {
+        "渭南市": [
+            {
+                "code": "610582", 
+                "type": "add", 
+                "name": "华阴市", 
+                "level": 3
+            }, 
+            {
+                "code": "610581", 
+                "type": "add", 
+                "name": "韩城市", 
+                "level": 3
+            }
+        ], 
+        "咸阳市": [
+            {
+                "code": "610481", 
+                "type": "add", 
+                "name": "兴平市", 
+                "level": 3
+            }
+        ], 
+        "榆林地区": [
+            {
+                "code": "619002", 
+                "type": "del", 
+                "name": "韩城市", 
+                "level": 3
+            }, 
+            {
+                "code": "619001", 
+                "type": "del", 
+                "name": "兴平市", 
+                "level": 3
+            }, 
+            {
+                "code": "619003", 
+                "type": "del", 
+                "name": "华阴市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "黑龙江省": {
+        "大兴安岭地区": [
+            {
+                "code": "239004", 
+                "type": "del", 
+                "name": "富锦市", 
+                "level": 3
+            }, 
+            {
+                "code": "239005", 
+                "type": "del", 
+                "name": "铁力市", 
+                "level": 3
+            }, 
+            {
+                "code": "239006", 
+                "type": "del", 
+                "name": "密山市", 
+                "level": 3
+            }, 
+            {
+                "code": "239007", 
+                "type": "del", 
+                "name": "海林市", 
+                "level": 3
+            }, 
+            {
+                "code": "239001", 
+                "type": "del", 
+                "name": "绥芬河市", 
+                "level": 3
+            }, 
+            {
+                "code": "239002", 
+                "type": "del", 
+                "name": "阿城市", 
+                "level": 3
+            }, 
+            {
+                "code": "239003", 
+                "type": "del", 
+                "name": "同江市", 
+                "level": 3
+            }, 
+            {
+                "code": "239008", 
+                "type": "del", 
+                "name": "讷河市", 
+                "level": 3
+            }, 
+            {
+                "code": "239009", 
+                "type": "del", 
+                "name": "北安市", 
+                "level": 3
+            }, 
+            {
+                "code": "239011", 
+                "type": "del", 
+                "name": "宁安市", 
+                "level": 3
+            }, 
+            {
+                "code": "239010", 
+                "type": "del", 
+                "name": "五大连池市", 
+                "level": 3
+            }
+        ], 
+        "齐齐哈尔市": [
+            {
+                "code": "230281", 
+                "type": "add", 
+                "name": "讷河市", 
+                "level": 3
+            }
+        ], 
+        "鸡西市": [
+            {
+                "code": "230382", 
+                "type": "add", 
+                "name": "密山市", 
+                "level": 3
+            }
+        ], 
+        "黑河市": [
+            {
+                "code": "231181", 
+                "type": "add", 
+                "name": "北安市", 
+                "level": 3
+            }, 
+            {
+                "code": "231182", 
+                "type": "add", 
+                "name": "五大连池市", 
+                "level": 3
+            }
+        ], 
+        "佳木斯市": [
+            {
+                "code": "230882", 
+                "type": "add", 
+                "name": "富锦市", 
+                "level": 3
+            }, 
+            {
+                "code": "230881", 
+                "type": "add", 
+                "name": "同江市", 
+                "level": 3
+            }
+        ], 
+        "伊春市": [
+            {
+                "code": "230781", 
+                "type": "add", 
+                "name": "铁力市", 
+                "level": 3
+            }
+        ], 
+        "哈尔滨市": [
+            {
+                "code": "230181", 
+                "type": "add", 
+                "name": "阿城市", 
+                "level": 3
+            }
+        ], 
+        "牡丹江市": [
+            {
+                "code": "231084", 
+                "type": "add", 
+                "name": "宁安市", 
+                "level": 3
+            }, 
+            {
+                "code": "231085", 
+                "type": "add", 
+                "name": "穆棱市", 
+                "level": 3
+            }, 
+            {
+                "code": "231081", 
+                "type": "add", 
+                "name": "绥芬河市", 
+                "level": 3
+            }, 
+            {
+                "code": "231083", 
+                "type": "add", 
+                "name": "海林市", 
+                "level": 3
+            }, 
+            {
+                "code": "231023", 
+                "type": "del", 
+                "name": "穆棱县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "湖北省": {
+        "宜昌市": [
+            {
+                "code": "420505", 
+                "type": "add", 
+                "name": "猇亭区", 
+                "level": 3
+            }, 
+            {
+                "code": "420583", 
+                "type": "add", 
+                "name": "枝城市", 
+                "level": 3
+            }, 
+            {
+                "code": "420582", 
+                "type": "add", 
+                "name": "当阳市", 
+                "level": 3
+            }
+        ], 
+        "襄樊市": [
+            {
+                "code": "420682", 
+                "type": "add", 
+                "name": "老河口市", 
+                "level": 3
+            }, 
+            {
+                "code": "420683", 
+                "type": "add", 
+                "name": "枣阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "420606", 
+                "type": "add", 
+                "name": "樊城区", 
+                "level": 3
+            }, 
+            {
+                "code": "420684", 
+                "type": "add", 
+                "name": "宜城市", 
+                "level": 3
+            }, 
+            {
+                "code": "420611", 
+                "type": "del", 
+                "name": "郊区", 
+                "level": 3
+            }, 
+            {
+                "code": "420604", 
+                "type": "del", 
+                "name": "樊西区", 
+                "level": 3
+            }, 
+            {
+                "code": "420603", 
+                "type": "del", 
+                "name": "樊东区", 
+                "level": 3
+            }
+        ], 
+        "孝感市": [
+            {
+                "code": "420981", 
+                "type": "add", 
+                "name": "应城市", 
+                "level": 3
+            }, 
+            {
+                "code": "420983", 
+                "type": "add", 
+                "name": "广水市", 
+                "level": 3
+            }, 
+            {
+                "code": "420982", 
+                "type": "add", 
+                "name": "安陆市", 
+                "level": 3
+            }
+        ], 
+        "黄石市": [
+            {
+                "code": "420281", 
+                "type": "add", 
+                "name": "大冶市", 
+                "level": 3
+            }
+        ], 
+        "十堰市": [
+            {
+                "code": "420381", 
+                "type": "add", 
+                "name": "丹江口市", 
+                "level": 3
+            }
+        ], 
+        "恩施土家族苗族自治州": [
+            {
+                "code": "429011", 
+                "type": "del", 
+                "name": "广水市", 
+                "level": 3
+            }, 
+            {
+                "code": "429010", 
+                "type": "del", 
+                "name": "安陆市", 
+                "level": 3
+            }, 
+            {
+                "code": "429012", 
+                "type": "del", 
+                "name": "石首市", 
+                "level": 3
+            }, 
+            {
+                "code": "429013", 
+                "type": "del", 
+                "name": "洪湖市", 
+                "level": 3
+            }, 
+            {
+                "code": "429014", 
+                "type": "del", 
+                "name": "钟祥市", 
+                "level": 3
+            }, 
+            {
+                "code": "429015", 
+                "type": "del", 
+                "name": "丹江口市", 
+                "level": 3
+            }, 
+            {
+                "code": "429016", 
+                "type": "del", 
+                "name": "大冶市", 
+                "level": 3
+            }, 
+            {
+                "code": "429017", 
+                "type": "del", 
+                "name": "宜城市", 
+                "level": 3
+            }, 
+            {
+                "code": "429009", 
+                "type": "del", 
+                "name": "应城市", 
+                "level": 3
+            }, 
+            {
+                "code": "429008", 
+                "type": "del", 
+                "name": "当阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "429007", 
+                "type": "del", 
+                "name": "枝城市", 
+                "level": 3
+            }, 
+            {
+                "code": "429003", 
+                "type": "del", 
+                "name": "枣阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "429002", 
+                "type": "del", 
+                "name": "老河口市", 
+                "level": 3
+            }
+        ], 
+        "武汉市": [
+            {
+                "code": "420115", 
+                "type": "add", 
+                "name": "江夏区", 
+                "level": 3
+            }, 
+            {
+                "code": "420122", 
+                "type": "del", 
+                "name": "武昌县", 
+                "level": 3
+            }
+        ], 
+        "黄冈市": [
+            {
+                "code": "421182", 
+                "type": "add", 
+                "name": "武穴市", 
+                "level": 3
+            }, 
+            {
+                "code": "421124", 
+                "type": "add", 
+                "name": "英山县", 
+                "level": 3
+            }, 
+            {
+                "code": "421181", 
+                "type": "add", 
+                "name": "麻城市", 
+                "level": 3
+            }, 
+            {
+                "code": "421102", 
+                "type": "add", 
+                "name": "黄州区", 
+                "level": 3
+            }, 
+            {
+                "code": "421125", 
+                "type": "add", 
+                "name": "浠水县", 
+                "level": 3
+            }, 
+            {
+                "code": "421122", 
+                "type": "add", 
+                "name": "红安县", 
+                "level": 3
+            }, 
+            {
+                "code": "421126", 
+                "type": "add", 
+                "name": "蕲春县", 
+                "level": 3
+            }, 
+            {
+                "code": "421100", 
+                "type": "add", 
+                "name": "黄冈市", 
+                "level": 3
+            }, 
+            {
+                "code": "421127", 
+                "type": "add", 
+                "name": "黄梅县", 
+                "level": 3
+            }, 
+            {
+                "code": "421121", 
+                "type": "add", 
+                "name": "团风县", 
+                "level": 3
+            }, 
+            {
+                "code": "421123", 
+                "type": "add", 
+                "name": "罗田县", 
+                "level": 3
+            }
+        ], 
+        "荆沙市": [
+            {
+                "code": "421083", 
+                "type": "add", 
+                "name": "洪湖市", 
+                "level": 3
+            }, 
+            {
+                "code": "421087", 
+                "type": "add", 
+                "name": "松滋市", 
+                "level": 3
+            }, 
+            {
+                "code": "421082", 
+                "type": "add", 
+                "name": "钟祥市", 
+                "level": 3
+            }, 
+            {
+                "code": "421081", 
+                "type": "add", 
+                "name": "石首市", 
+                "level": 3
+            }, 
+            {
+                "code": "421024", 
+                "type": "del", 
+                "name": "松滋县", 
+                "level": 3
+            }
+        ], 
+        "黄冈地区": [
+            {
+                "code": "422127", 
+                "type": "del", 
+                "name": "浠水县", 
+                "level": 3
+            }, 
+            {
+                "code": "422130", 
+                "type": "del", 
+                "name": "黄梅县", 
+                "level": 3
+            }, 
+            {
+                "code": "422126", 
+                "type": "del", 
+                "name": "英山县", 
+                "level": 3
+            }, 
+            {
+                "code": "422123", 
+                "type": "del", 
+                "name": "红安县", 
+                "level": 3
+            }, 
+            {
+                "code": "422101", 
+                "type": "del", 
+                "name": "麻城市", 
+                "level": 3
+            }, 
+            {
+                "code": "422103", 
+                "type": "del", 
+                "name": "黄州市", 
+                "level": 3
+            }, 
+            {
+                "code": "422102", 
+                "type": "del", 
+                "name": "武穴市", 
+                "level": 3
+            }, 
+            {
+                "code": "422100", 
+                "type": "del", 
+                "name": "黄冈地区", 
+                "level": 3
+            }, 
+            {
+                "code": "422125", 
+                "type": "del", 
+                "name": "罗田县", 
+                "level": 3
+            }, 
+            {
+                "code": "422128", 
+                "type": "del", 
+                "name": "蕲春县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "四川省": {
+        "绵阳市": [
+            {
+                "code": "510781", 
+                "type": "add", 
+                "name": "江油市", 
+                "level": 3
+            }
+        ], 
+        "涪陵地区": [
+            {
+                "code": "512302", 
+                "type": "del", 
+                "name": "南川市", 
+                "level": 3
+            }, 
+            {
+                "code": "512322", 
+                "type": "del", 
+                "name": "垫江县", 
+                "level": 3
+            }, 
+            {
+                "code": "512326", 
+                "type": "del", 
+                "name": "武隆县", 
+                "level": 3
+            }, 
+            {
+                "code": "512324", 
+                "type": "del", 
+                "name": "丰都县", 
+                "level": 3
+            }, 
+            {
+                "code": "512300", 
+                "type": "del", 
+                "name": "涪陵地区", 
+                "level": 3
+            }, 
+            {
+                "code": "512301", 
+                "type": "del", 
+                "name": "涪陵市", 
+                "level": 3
+            }
+        ], 
+        "德阳市": [
+            {
+                "code": "510682", 
+                "type": "add", 
+                "name": "什邡市", 
+                "level": 3
+            }, 
+            {
+                "code": "510681", 
+                "type": "add", 
+                "name": "广汉市", 
+                "level": 3
+            }, 
+            {
+                "code": "510625", 
+                "type": "del", 
+                "name": "什邡县", 
+                "level": 3
+            }
+        ], 
+        "重庆市": [
+            {
+                "code": "510282", 
+                "type": "add", 
+                "name": "合川市", 
+                "level": 3
+            }, 
+            {
+                "code": "510281", 
+                "type": "add", 
+                "name": "永川市", 
+                "level": 3
+            }, 
+            {
+                "code": "510283", 
+                "type": "add", 
+                "name": "江津市", 
+                "level": 3
+            }
+        ], 
+        "巴中地区": [
+            {
+                "code": "519007", 
+                "type": "del", 
+                "name": "江津市", 
+                "level": 3
+            }, 
+            {
+                "code": "519006", 
+                "type": "del", 
+                "name": "合川市", 
+                "level": 3
+            }, 
+            {
+                "code": "519009", 
+                "type": "del", 
+                "name": "资阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "519008", 
+                "type": "del", 
+                "name": "阆中市", 
+                "level": 3
+            }, 
+            {
+                "code": "519003", 
+                "type": "del", 
+                "name": "都江堰市", 
+                "level": 3
+            }, 
+            {
+                "code": "519010", 
+                "type": "del", 
+                "name": "彭州市", 
+                "level": 3
+            }, 
+            {
+                "code": "519011", 
+                "type": "del", 
+                "name": "简阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "519012", 
+                "type": "del", 
+                "name": "邛崃市", 
+                "level": 3
+            }, 
+            {
+                "code": "519013", 
+                "type": "del", 
+                "name": "崇州市", 
+                "level": 3
+            }, 
+            {
+                "code": "519005", 
+                "type": "del", 
+                "name": "永川市", 
+                "level": 3
+            }, 
+            {
+                "code": "519004", 
+                "type": "del", 
+                "name": "峨眉山市", 
+                "level": 3
+            }, 
+            {
+                "code": "519002", 
+                "type": "del", 
+                "name": "江油市", 
+                "level": 3
+            }, 
+            {
+                "code": "519001", 
+                "type": "del", 
+                "name": "广汉市", 
+                "level": 3
+            }
+        ], 
+        "成都市": [
+            {
+                "code": "510184", 
+                "type": "add", 
+                "name": "崇州市", 
+                "level": 3
+            }, 
+            {
+                "code": "510181", 
+                "type": "add", 
+                "name": "都江堰市", 
+                "level": 3
+            }, 
+            {
+                "code": "510183", 
+                "type": "add", 
+                "name": "邛崃市", 
+                "level": 3
+            }, 
+            {
+                "code": "510182", 
+                "type": "add", 
+                "name": "彭州市", 
+                "level": 3
+            }
+        ], 
+        "乐山市": [
+            {
+                "code": "511181", 
+                "type": "add", 
+                "name": "峨眉山市", 
+                "level": 3
+            }
+        ], 
+        "涪陵市": [
+            {
+                "code": "517000", 
+                "type": "add", 
+                "name": "涪陵市", 
+                "level": 3
+            }, 
+            {
+                "code": "517003", 
+                "type": "add", 
+                "name": "李渡区", 
+                "level": 3
+            }, 
+            {
+                "code": "517002", 
+                "type": "add", 
+                "name": "枳城区", 
+                "level": 3
+            }, 
+            {
+                "code": "517081", 
+                "type": "add", 
+                "name": "南川市", 
+                "level": 3
+            }, 
+            {
+                "code": "517022", 
+                "type": "add", 
+                "name": "丰都县", 
+                "level": 3
+            }, 
+            {
+                "code": "517023", 
+                "type": "add", 
+                "name": "武隆县", 
+                "level": 3
+            }, 
+            {
+                "code": "517021", 
+                "type": "add", 
+                "name": "垫江县", 
+                "level": 3
+            }
+        ], 
+        "内江市": [
+            {
+                "code": "511082", 
+                "type": "add", 
+                "name": "简阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "511081", 
+                "type": "add", 
+                "name": "资阳市", 
+                "level": 3
+            }
+        ], 
+        "泸州市": [
+            {
+                "code": "510503", 
+                "type": "add", 
+                "name": "纳溪区", 
+                "level": 3
+            }, 
+            {
+                "code": "510504", 
+                "type": "add", 
+                "name": "龙马潭区", 
+                "level": 3
+            }, 
+            {
+                "code": "510523", 
+                "type": "del", 
+                "name": "纳溪县", 
+                "level": 3
+            }, 
+            {
+                "code": "510502", 
+                "type": "just_name_change", 
+                "name": "市中区", 
+                "level": 3
+            }
+        ], 
+        "南充市": [
+            {
+                "code": "511381", 
+                "type": "add", 
+                "name": "阆中市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "辽宁省": {
+        "丹东市": [
+            {
+                "code": "210682", 
+                "type": "add", 
+                "name": "凤城市", 
+                "level": 3
+            }, 
+            {
+                "code": "210681", 
+                "type": "add", 
+                "name": "东港市", 
+                "level": 3
+            }
+        ], 
+        "营口市": [
+            {
+                "code": "210881", 
+                "type": "add", 
+                "name": "盖州市", 
+                "level": 3
+            }, 
+            {
+                "code": "210882", 
+                "type": "add", 
+                "name": "大石桥市", 
+                "level": 3
+            }
+        ], 
+        "沈阳市": [
+            {
+                "code": "210181", 
+                "type": "add", 
+                "name": "新民市", 
+                "level": 3
+            }
+        ], 
+        "锦州市": [
+            {
+                "code": "210782", 
+                "type": "add", 
+                "name": "北宁市", 
+                "level": 3
+            }, 
+            {
+                "code": "210781", 
+                "type": "add", 
+                "name": "凌海市", 
+                "level": 3
+            }, 
+            {
+                "code": "210725", 
+                "type": "del", 
+                "name": "北镇满族自治县", 
+                "level": 3
+            }
+        ], 
+        "大连市": [
+            {
+                "code": "210283", 
+                "type": "add", 
+                "name": "庄河市", 
+                "level": 3
+            }, 
+            {
+                "code": "210282", 
+                "type": "add", 
+                "name": "普兰店市", 
+                "level": 3
+            }, 
+            {
+                "code": "210281", 
+                "type": "add", 
+                "name": "瓦房店市", 
+                "level": 3
+            }
+        ], 
+        "朝阳市": [
+            {
+                "code": "211381", 
+                "type": "add", 
+                "name": "北票市", 
+                "level": 3
+            }, 
+            {
+                "code": "211382", 
+                "type": "add", 
+                "name": "凌源市", 
+                "level": 3
+            }
+        ], 
+        "铁岭市": [
+            {
+                "code": "211281", 
+                "type": "add", 
+                "name": "铁法市", 
+                "level": 3
+            }, 
+            {
+                "code": "211282", 
+                "type": "add", 
+                "name": "开原市", 
+                "level": 3
+            }
+        ], 
+        "鞍山市": [
+            {
+                "code": "210381", 
+                "type": "add", 
+                "name": "海城市", 
+                "level": 3
+            }
+        ], 
+        "葫芦岛市": [
+            {
+                "code": "211481", 
+                "type": "add", 
+                "name": "兴城市", 
+                "level": 3
+            }, 
+            {
+                "code": "219002", 
+                "type": "del", 
+                "name": "海城市", 
+                "level": 3
+            }, 
+            {
+                "code": "219001", 
+                "type": "del", 
+                "name": "瓦房店市", 
+                "level": 3
+            }, 
+            {
+                "code": "219006", 
+                "type": "del", 
+                "name": "北票市", 
+                "level": 3
+            }, 
+            {
+                "code": "219007", 
+                "type": "del", 
+                "name": "开原市", 
+                "level": 3
+            }, 
+            {
+                "code": "219004", 
+                "type": "del", 
+                "name": "兴城市", 
+                "level": 3
+            }, 
+            {
+                "code": "219005", 
+                "type": "del", 
+                "name": "铁法市", 
+                "level": 3
+            }, 
+            {
+                "code": "219008", 
+                "type": "del", 
+                "name": "普兰店市", 
+                "level": 3
+            }, 
+            {
+                "code": "219009", 
+                "type": "del", 
+                "name": "凌源市", 
+                "level": 3
+            }, 
+            {
+                "code": "219011", 
+                "type": "del", 
+                "name": "大石桥市", 
+                "level": 3
+            }, 
+            {
+                "code": "219010", 
+                "type": "del", 
+                "name": "庄河市", 
+                "level": 3
+            }, 
+            {
+                "code": "219013", 
+                "type": "del", 
+                "name": "新民市", 
+                "level": 3
+            }, 
+            {
+                "code": "219012", 
+                "type": "del", 
+                "name": "盖州市", 
+                "level": 3
+            }, 
+            {
+                "code": "219015", 
+                "type": "del", 
+                "name": "凌海市", 
+                "level": 3
+            }, 
+            {
+                "code": "219014", 
+                "type": "del", 
+                "name": "东港市", 
+                "level": 3
+            }, 
+            {
+                "code": "219016", 
+                "type": "del", 
+                "name": "凤城市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "湖南省": {
+        "益阳市": [
+            {
+                "code": "430981", 
+                "type": "add", 
+                "name": "沅江市", 
+                "level": 3
+            }
+        ], 
+        "衡阳市": [
+            {
+                "code": "430481", 
+                "type": "add", 
+                "name": "耒阳市", 
+                "level": 3
+            }
+        ], 
+        "郴州市": [
+            {
+                "code": "431081", 
+                "type": "add", 
+                "name": "资兴市", 
+                "level": 3
+            }
+        ], 
+        "常德市": [
+            {
+                "code": "430781", 
+                "type": "add", 
+                "name": "津市市", 
+                "level": 3
+            }
+        ], 
+        "岳阳市": [
+            {
+                "code": "430682", 
+                "type": "add", 
+                "name": "临湘市", 
+                "level": 3
+            }, 
+            {
+                "code": "430681", 
+                "type": "add", 
+                "name": "汨罗市", 
+                "level": 3
+            }
+        ], 
+        "永州市": [
+            {
+                "code": "431128", 
+                "type": "add", 
+                "name": "新田县", 
+                "level": 3
+            }, 
+            {
+                "code": "431100", 
+                "type": "add", 
+                "name": "永州市", 
+                "level": 3
+            }, 
+            {
+                "code": "431102", 
+                "type": "add", 
+                "name": "芝山区", 
+                "level": 3
+            }, 
+            {
+                "code": "431121", 
+                "type": "add", 
+                "name": "祁阳县", 
+                "level": 3
+            }, 
+            {
+                "code": "431123", 
+                "type": "add", 
+                "name": "双牌县", 
+                "level": 3
+            }, 
+            {
+                "code": "431122", 
+                "type": "add", 
+                "name": "东安县", 
+                "level": 3
+            }, 
+            {
+                "code": "431125", 
+                "type": "add", 
+                "name": "江永县", 
+                "level": 3
+            }, 
+            {
+                "code": "431124", 
+                "type": "add", 
+                "name": "道县", 
+                "level": 3
+            }, 
+            {
+                "code": "431127", 
+                "type": "add", 
+                "name": "蓝山县", 
+                "level": 3
+            }, 
+            {
+                "code": "431126", 
+                "type": "add", 
+                "name": "宁远县", 
+                "level": 3
+            }, 
+            {
+                "code": "431129", 
+                "type": "add", 
+                "name": "江华瑶族自治县", 
+                "level": 3
+            }, 
+            {
+                "code": "431103", 
+                "type": "add", 
+                "name": "冷水滩区", 
+                "level": 3
+            }
+        ], 
+        "长沙市": [
+            {
+                "code": "430181", 
+                "type": "add", 
+                "name": "浏阳市", 
+                "level": 3
+            }
+        ], 
+        "株洲市": [
+            {
+                "code": "430281", 
+                "type": "add", 
+                "name": "醴陵市", 
+                "level": 3
+            }
+        ], 
+        "零陵地区": [
+            {
+                "code": "432902", 
+                "type": "del", 
+                "name": "冷水滩市", 
+                "level": 3
+            }, 
+            {
+                "code": "432900", 
+                "type": "del", 
+                "name": "零陵地区", 
+                "level": 3
+            }, 
+            {
+                "code": "432901", 
+                "type": "del", 
+                "name": "永州市", 
+                "level": 3
+            }, 
+            {
+                "code": "432923", 
+                "type": "del", 
+                "name": "道县", 
+                "level": 3
+            }, 
+            {
+                "code": "432928", 
+                "type": "del", 
+                "name": "新田县", 
+                "level": 3
+            }, 
+            {
+                "code": "432929", 
+                "type": "del", 
+                "name": "双牌县", 
+                "level": 3
+            }, 
+            {
+                "code": "432924", 
+                "type": "del", 
+                "name": "宁远县", 
+                "level": 3
+            }, 
+            {
+                "code": "432925", 
+                "type": "del", 
+                "name": "江永县", 
+                "level": 3
+            }, 
+            {
+                "code": "432926", 
+                "type": "del", 
+                "name": "江华瑶族自治县", 
+                "level": 3
+            }, 
+            {
+                "code": "432927", 
+                "type": "del", 
+                "name": "蓝山县", 
+                "level": 3
+            }, 
+            {
+                "code": "432922", 
+                "type": "del", 
+                "name": "东安县", 
+                "level": 3
+            }, 
+            {
+                "code": "432930", 
+                "type": "del", 
+                "name": "祁阳县", 
+                "level": 3
+            }
+        ], 
+        "湘西土家族苗族自治州": [
+            {
+                "code": "439011", 
+                "type": "del", 
+                "name": "武冈市", 
+                "level": 3
+            }, 
+            {
+                "code": "439002", 
+                "type": "del", 
+                "name": "湘乡市", 
+                "level": 3
+            }, 
+            {
+                "code": "439010", 
+                "type": "del", 
+                "name": "沅江市", 
+                "level": 3
+            }, 
+            {
+                "code": "439003", 
+                "type": "del", 
+                "name": "耒阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "439008", 
+                "type": "del", 
+                "name": "浏阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "439009", 
+                "type": "del", 
+                "name": "资兴市", 
+                "level": 3
+            }, 
+            {
+                "code": "439001", 
+                "type": "del", 
+                "name": "醴陵市", 
+                "level": 3
+            }, 
+            {
+                "code": "439004", 
+                "type": "del", 
+                "name": "汨罗市", 
+                "level": 3
+            }, 
+            {
+                "code": "439006", 
+                "type": "del", 
+                "name": "韶山市", 
+                "level": 3
+            }, 
+            {
+                "code": "439007", 
+                "type": "del", 
+                "name": "临湘市", 
+                "level": 3
+            }, 
+            {
+                "code": "439005", 
+                "type": "del", 
+                "name": "津市市", 
+                "level": 3
+            }
+        ], 
+        "邵阳市": [
+            {
+                "code": "430581", 
+                "type": "add", 
+                "name": "武冈市", 
+                "level": 3
+            }
+        ], 
+        "湘潭市": [
+            {
+                "code": "430381", 
+                "type": "add", 
+                "name": "湘乡市", 
+                "level": 3
+            }, 
+            {
+                "code": "430382", 
+                "type": "add", 
+                "name": "韶山市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "吉林省": {
+        "延边朝鲜族自治州": [
+            {
+                "code": "229012", 
+                "type": "del", 
+                "name": "德惠市", 
+                "level": 3
+            }, 
+            {
+                "code": "229010", 
+                "type": "del", 
+                "name": "洮南市", 
+                "level": 3
+            }, 
+            {
+                "code": "229011", 
+                "type": "del", 
+                "name": "临江市", 
+                "level": 3
+            }, 
+            {
+                "code": "229001", 
+                "type": "del", 
+                "name": "公主岭市", 
+                "level": 3
+            }, 
+            {
+                "code": "229003", 
+                "type": "del", 
+                "name": "集安市", 
+                "level": 3
+            }, 
+            {
+                "code": "229002", 
+                "type": "del", 
+                "name": "梅河口市", 
+                "level": 3
+            }, 
+            {
+                "code": "229005", 
+                "type": "del", 
+                "name": "九台市", 
+                "level": 3
+            }, 
+            {
+                "code": "229004", 
+                "type": "del", 
+                "name": "桦甸市", 
+                "level": 3
+            }, 
+            {
+                "code": "229007", 
+                "type": "del", 
+                "name": "榆树市", 
+                "level": 3
+            }, 
+            {
+                "code": "229006", 
+                "type": "del", 
+                "name": "蛟河市", 
+                "level": 3
+            }, 
+            {
+                "code": "229009", 
+                "type": "del", 
+                "name": "大安市", 
+                "level": 3
+            }, 
+            {
+                "code": "229008", 
+                "type": "del", 
+                "name": "舒兰市", 
+                "level": 3
+            }
+        ], 
+        "松原市": [
+            {
+                "code": "220724", 
+                "type": "add", 
+                "name": "扶余县", 
+                "level": 3
+            }, 
+            {
+                "code": "220702", 
+                "type": "just_name_change", 
+                "name": "扶余区", 
+                "level": 3
+            }
+        ], 
+        "四平市": [
+            {
+                "code": "220381", 
+                "type": "add", 
+                "name": "公主岭市", 
+                "level": 3
+            }
+        ], 
+        "长春市": [
+            {
+                "code": "220181", 
+                "type": "add", 
+                "name": "九台市", 
+                "level": 3
+            }, 
+            {
+                "code": "220112", 
+                "type": "add", 
+                "name": "双阳区", 
+                "level": 3
+            }, 
+            {
+                "code": "220106", 
+                "type": "add", 
+                "name": "绿园区", 
+                "level": 3
+            }, 
+            {
+                "code": "220183", 
+                "type": "add", 
+                "name": "德惠市", 
+                "level": 3
+            }, 
+            {
+                "code": "220182", 
+                "type": "add", 
+                "name": "榆树市", 
+                "level": 3
+            }, 
+            {
+                "code": "220125", 
+                "type": "del", 
+                "name": "双阳县", 
+                "level": 3
+            }, 
+            {
+                "code": "220111", 
+                "type": "del", 
+                "name": "郊区", 
+                "level": 3
+            }, 
+            {
+                "code": "220105", 
+                "type": "just_name_change", 
+                "name": "二道河子区", 
+                "level": 3
+            }
+        ], 
+        "通化市": [
+            {
+                "code": "220582", 
+                "type": "add", 
+                "name": "集安市", 
+                "level": 3
+            }, 
+            {
+                "code": "220581", 
+                "type": "add", 
+                "name": "梅河口市", 
+                "level": 3
+            }
+        ], 
+        "白山市": [
+            {
+                "code": "220625", 
+                "type": "add", 
+                "name": "江源县", 
+                "level": 3
+            }, 
+            {
+                "code": "220681", 
+                "type": "add", 
+                "name": "临江市", 
+                "level": 3
+            }, 
+            {
+                "code": "220603", 
+                "type": "del", 
+                "name": "三岔子区", 
+                "level": 3
+            }
+        ], 
+        "吉林市": [
+            {
+                "code": "220281", 
+                "type": "add", 
+                "name": "蛟河市", 
+                "level": 3
+            }, 
+            {
+                "code": "220282", 
+                "type": "add", 
+                "name": "桦甸市", 
+                "level": 3
+            }, 
+            {
+                "code": "220283", 
+                "type": "add", 
+                "name": "舒兰市", 
+                "level": 3
+            }, 
+            {
+                "code": "220284", 
+                "type": "add", 
+                "name": "磐石市", 
+                "level": 3
+            }, 
+            {
+                "code": "220223", 
+                "type": "del", 
+                "name": "磐石县", 
+                "level": 3
+            }
+        ], 
+        "白城市": [
+            {
+                "code": "220882", 
+                "type": "add", 
+                "name": "大安市", 
+                "level": 3
+            }, 
+            {
+                "code": "220881", 
+                "type": "add", 
+                "name": "洮南市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "贵州省": {
+        "贵阳市": [
+            {
+                "code": "520122", 
+                "type": "add", 
+                "name": "息烽县", 
+                "level": 3
+            }, 
+            {
+                "code": "520121", 
+                "type": "add", 
+                "name": "开阳县", 
+                "level": 3
+            }, 
+            {
+                "code": "520123", 
+                "type": "add", 
+                "name": "修文县", 
+                "level": 3
+            }, 
+            {
+                "code": "520181", 
+                "type": "add", 
+                "name": "清镇市", 
+                "level": 3
+            }
+        ], 
+        "安顺地区": [
+            {
+                "code": "522522", 
+                "type": "del", 
+                "name": "开阳县", 
+                "level": 3
+            }, 
+            {
+                "code": "522523", 
+                "type": "del", 
+                "name": "息烽县", 
+                "level": 3
+            }, 
+            {
+                "code": "522524", 
+                "type": "del", 
+                "name": "修文县", 
+                "level": 3
+            }, 
+            {
+                "code": "522502", 
+                "type": "del", 
+                "name": "清镇市", 
+                "level": 3
+            }
+        ], 
+        "遵义地区": [
+            {
+                "code": "522103", 
+                "type": "add", 
+                "name": "仁怀市", 
+                "level": 3
+            }, 
+            {
+                "code": "522130", 
+                "type": "del", 
+                "name": "仁怀县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "广东省": {
+        "广州市": [
+            {
+                "code": "440181", 
+                "type": "add", 
+                "name": "番禺市", 
+                "level": 3
+            }, 
+            {
+                "code": "440184", 
+                "type": "add", 
+                "name": "从化市", 
+                "level": 3
+            }, 
+            {
+                "code": "440183", 
+                "type": "add", 
+                "name": "增城市", 
+                "level": 3
+            }, 
+            {
+                "code": "440182", 
+                "type": "add", 
+                "name": "花都市", 
+                "level": 3
+            }
+        ], 
+        "湛江市": [
+            {
+                "code": "440883", 
+                "type": "add", 
+                "name": "吴川市", 
+                "level": 3
+            }, 
+            {
+                "code": "440881", 
+                "type": "add", 
+                "name": "廉江市", 
+                "level": 3
+            }, 
+            {
+                "code": "440882", 
+                "type": "add", 
+                "name": "雷州市", 
+                "level": 3
+            }
+        ], 
+        "惠州市": [
+            {
+                "code": "441381", 
+                "type": "add", 
+                "name": "惠阳市", 
+                "level": 3
+            }
+        ], 
+        "汕头市": [
+            {
+                "code": "440583", 
+                "type": "add", 
+                "name": "澄海市", 
+                "level": 3
+            }, 
+            {
+                "code": "440582", 
+                "type": "add", 
+                "name": "潮阳市", 
+                "level": 3
+            }
+        ], 
+        "梅州市": [
+            {
+                "code": "441481", 
+                "type": "add", 
+                "name": "兴宁市", 
+                "level": 3
+            }
+        ], 
+        "云浮市": [
+            {
+                "code": "445381", 
+                "type": "add", 
+                "name": "罗定市", 
+                "level": 3
+            }, 
+            {
+                "code": "449009", 
+                "type": "del", 
+                "name": "普宁市", 
+                "level": 3
+            }, 
+            {
+                "code": "449020", 
+                "type": "del", 
+                "name": "恩平市", 
+                "level": 3
+            }, 
+            {
+                "code": "449008", 
+                "type": "del", 
+                "name": "三水市", 
+                "level": 3
+            }, 
+            {
+                "code": "449018", 
+                "type": "del", 
+                "name": "廉江市", 
+                "level": 3
+            }, 
+            {
+                "code": "449019", 
+                "type": "del", 
+                "name": "英德市", 
+                "level": 3
+            }, 
+            {
+                "code": "449016", 
+                "type": "del", 
+                "name": "四会市", 
+                "level": 3
+            }, 
+            {
+                "code": "449017", 
+                "type": "del", 
+                "name": "增城市", 
+                "level": 3
+            }, 
+            {
+                "code": "449014", 
+                "type": "del", 
+                "name": "高要市", 
+                "level": 3
+            }, 
+            {
+                "code": "449015", 
+                "type": "del", 
+                "name": "鹤山市", 
+                "level": 3
+            }, 
+            {
+                "code": "449012", 
+                "type": "del", 
+                "name": "高州市", 
+                "level": 3
+            }, 
+            {
+                "code": "449013", 
+                "type": "del", 
+                "name": "花都市", 
+                "level": 3
+            }, 
+            {
+                "code": "449010", 
+                "type": "del", 
+                "name": "罗定市", 
+                "level": 3
+            }, 
+            {
+                "code": "449011", 
+                "type": "del", 
+                "name": "潮阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "449004", 
+                "type": "del", 
+                "name": "南海市", 
+                "level": 3
+            }, 
+            {
+                "code": "449007", 
+                "type": "del", 
+                "name": "开平市", 
+                "level": 3
+            }, 
+            {
+                "code": "449006", 
+                "type": "del", 
+                "name": "新会市", 
+                "level": 3
+            }, 
+            {
+                "code": "449001", 
+                "type": "del", 
+                "name": "顺德市", 
+                "level": 3
+            }, 
+            {
+                "code": "449003", 
+                "type": "del", 
+                "name": "番禺市", 
+                "level": 3
+            }, 
+            {
+                "code": "449002", 
+                "type": "del", 
+                "name": "台山市", 
+                "level": 3
+            }, 
+            {
+                "code": "449030", 
+                "type": "del", 
+                "name": "兴宁市", 
+                "level": 3
+            }, 
+            {
+                "code": "449031", 
+                "type": "del", 
+                "name": "化州市", 
+                "level": 3
+            }, 
+            {
+                "code": "449029", 
+                "type": "del", 
+                "name": "吴川市", 
+                "level": 3
+            }, 
+            {
+                "code": "449027", 
+                "type": "del", 
+                "name": "阳春市", 
+                "level": 3
+            }, 
+            {
+                "code": "449026", 
+                "type": "del", 
+                "name": "乐昌市", 
+                "level": 3
+            }, 
+            {
+                "code": "449025", 
+                "type": "del", 
+                "name": "雷州市", 
+                "level": 3
+            }, 
+            {
+                "code": "449024", 
+                "type": "del", 
+                "name": "连州市", 
+                "level": 3
+            }, 
+            {
+                "code": "449023", 
+                "type": "del", 
+                "name": "高明市", 
+                "level": 3
+            }, 
+            {
+                "code": "449022", 
+                "type": "del", 
+                "name": "澄海市", 
+                "level": 3
+            }, 
+            {
+                "code": "449028", 
+                "type": "del", 
+                "name": "惠阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "449021", 
+                "type": "del", 
+                "name": "从化市", 
+                "level": 3
+            }
+        ], 
+        "阳江市": [
+            {
+                "code": "441781", 
+                "type": "add", 
+                "name": "阳春市", 
+                "level": 3
+            }
+        ], 
+        "清远市": [
+            {
+                "code": "441882", 
+                "type": "add", 
+                "name": "连州市", 
+                "level": 3
+            }, 
+            {
+                "code": "441881", 
+                "type": "add", 
+                "name": "英德市", 
+                "level": 3
+            }
+        ], 
+        "江门市": [
+            {
+                "code": "440782", 
+                "type": "add", 
+                "name": "新会市", 
+                "level": 3
+            }, 
+            {
+                "code": "440781", 
+                "type": "add", 
+                "name": "台山市", 
+                "level": 3
+            }, 
+            {
+                "code": "440784", 
+                "type": "add", 
+                "name": "鹤山市", 
+                "level": 3
+            }, 
+            {
+                "code": "440783", 
+                "type": "add", 
+                "name": "开平市", 
+                "level": 3
+            }, 
+            {
+                "code": "440785", 
+                "type": "add", 
+                "name": "恩平市", 
+                "level": 3
+            }
+        ], 
+        "揭阳市": [
+            {
+                "code": "445281", 
+                "type": "add", 
+                "name": "普宁市", 
+                "level": 3
+            }
+        ], 
+        "汕尾市": [
+            {
+                "code": "441581", 
+                "type": "add", 
+                "name": "陆丰市", 
+                "level": 3
+            }, 
+            {
+                "code": "441522", 
+                "type": "del", 
+                "name": "陆丰县", 
+                "level": 3
+            }
+        ], 
+        "茂名市": [
+            {
+                "code": "440983", 
+                "type": "add", 
+                "name": "信宜市", 
+                "level": 3
+            }, 
+            {
+                "code": "440982", 
+                "type": "add", 
+                "name": "化州市", 
+                "level": 3
+            }, 
+            {
+                "code": "440981", 
+                "type": "add", 
+                "name": "高州市", 
+                "level": 3
+            }, 
+            {
+                "code": "440921", 
+                "type": "del", 
+                "name": "信宜县", 
+                "level": 3
+            }
+        ], 
+        "韶关市": [
+            {
+                "code": "440281", 
+                "type": "add", 
+                "name": "乐昌市", 
+                "level": 3
+            }
+        ], 
+        "肇庆市": [
+            {
+                "code": "441284", 
+                "type": "add", 
+                "name": "四会市", 
+                "level": 3
+            }, 
+            {
+                "code": "441283", 
+                "type": "add", 
+                "name": "高要市", 
+                "level": 3
+            }
+        ], 
+        "佛山市": [
+            {
+                "code": "440683", 
+                "type": "add", 
+                "name": "三水市", 
+                "level": 3
+            }, 
+            {
+                "code": "440684", 
+                "type": "add", 
+                "name": "高明市", 
+                "level": 3
+            }, 
+            {
+                "code": "440681", 
+                "type": "add", 
+                "name": "顺德市", 
+                "level": 3
+            }, 
+            {
+                "code": "440682", 
+                "type": "add", 
+                "name": "南海市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "福建省": {
+        "三明市": [
+            {
+                "code": "350481", 
+                "type": "add", 
+                "name": "永安市", 
+                "level": 3
+            }
+        ], 
+        "漳州市": [
+            {
+                "code": "350681", 
+                "type": "add", 
+                "name": "龙海市", 
+                "level": 3
+            }
+        ], 
+        "龙岩地区": [
+            {
+                "code": "359010", 
+                "type": "del", 
+                "name": "建阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "359011", 
+                "type": "del", 
+                "name": "长乐市", 
+                "level": 3
+            }, 
+            {
+                "code": "359009", 
+                "type": "del", 
+                "name": "建瓯市", 
+                "level": 3
+            }, 
+            {
+                "code": "359008", 
+                "type": "del", 
+                "name": "武夷山市", 
+                "level": 3
+            }, 
+            {
+                "code": "359001", 
+                "type": "del", 
+                "name": "永安市", 
+                "level": 3
+            }, 
+            {
+                "code": "359003", 
+                "type": "del", 
+                "name": "福清市", 
+                "level": 3
+            }, 
+            {
+                "code": "359002", 
+                "type": "del", 
+                "name": "石狮市", 
+                "level": 3
+            }, 
+            {
+                "code": "359005", 
+                "type": "del", 
+                "name": "南安市", 
+                "level": 3
+            }, 
+            {
+                "code": "359004", 
+                "type": "del", 
+                "name": "晋江市", 
+                "level": 3
+            }, 
+            {
+                "code": "359007", 
+                "type": "del", 
+                "name": "邵武市", 
+                "level": 3
+            }, 
+            {
+                "code": "359006", 
+                "type": "del", 
+                "name": "龙海市", 
+                "level": 3
+            }
+        ], 
+        "福州市": [
+            {
+                "code": "350182", 
+                "type": "add", 
+                "name": "长乐市", 
+                "level": 3
+            }, 
+            {
+                "code": "350181", 
+                "type": "add", 
+                "name": "福清市", 
+                "level": 3
+            }, 
+            {
+                "code": "350111", 
+                "type": "just_name_change", 
+                "name": "郊区", 
+                "level": 3
+            }
+        ], 
+        "南平市": [
+            {
+                "code": "350784", 
+                "type": "add", 
+                "name": "建阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "350781", 
+                "type": "add", 
+                "name": "邵武市", 
+                "level": 3
+            }, 
+            {
+                "code": "350783", 
+                "type": "add", 
+                "name": "建瓯市", 
+                "level": 3
+            }, 
+            {
+                "code": "350782", 
+                "type": "add", 
+                "name": "武夷山市", 
+                "level": 3
+            }
+        ], 
+        "宁德地区": [
+            {
+                "code": "352203", 
+                "type": "add", 
+                "name": "福鼎市", 
+                "level": 3
+            }, 
+            {
+                "code": "352224", 
+                "type": "del", 
+                "name": "福鼎县", 
+                "level": 3
+            }
+        ], 
+        "泉州市": [
+            {
+                "code": "350583", 
+                "type": "add", 
+                "name": "南安市", 
+                "level": 3
+            }, 
+            {
+                "code": "350582", 
+                "type": "add", 
+                "name": "晋江市", 
+                "level": 3
+            }, 
+            {
+                "code": "350581", 
+                "type": "add", 
+                "name": "石狮市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "河南省": {
+        "新乡市": [
+            {
+                "code": "410781", 
+                "type": "add", 
+                "name": "卫辉市", 
+                "level": 3
+            }, 
+            {
+                "code": "410782", 
+                "type": "add", 
+                "name": "辉县市", 
+                "level": 3
+            }
+        ], 
+        "安阳市": [
+            {
+                "code": "410581", 
+                "type": "add", 
+                "name": "林州市", 
+                "level": 3
+            }
+        ], 
+        "南阳市": [
+            {
+                "code": "411381", 
+                "type": "add", 
+                "name": "邓州市", 
+                "level": 3
+            }
+        ], 
+        "平顶山市": [
+            {
+                "code": "410482", 
+                "type": "add", 
+                "name": "汝州市", 
+                "level": 3
+            }, 
+            {
+                "code": "410481", 
+                "type": "add", 
+                "name": "舞钢市", 
+                "level": 3
+            }
+        ], 
+        "信阳地区": [
+            {
+                "code": "419016", 
+                "type": "del", 
+                "name": "荥阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "419018", 
+                "type": "del", 
+                "name": "登封市", 
+                "level": 3
+            }, 
+            {
+                "code": "419014", 
+                "type": "del", 
+                "name": "林州市", 
+                "level": 3
+            }, 
+            {
+                "code": "419017", 
+                "type": "del", 
+                "name": "新郑市", 
+                "level": 3
+            }, 
+            {
+                "code": "419004", 
+                "type": "del", 
+                "name": "禹州市", 
+                "level": 3
+            }, 
+            {
+                "code": "419005", 
+                "type": "del", 
+                "name": "卫辉市", 
+                "level": 3
+            }, 
+            {
+                "code": "419006", 
+                "type": "del", 
+                "name": "辉县市", 
+                "level": 3
+            }, 
+            {
+                "code": "419007", 
+                "type": "del", 
+                "name": "沁阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "419001", 
+                "type": "del", 
+                "name": "义马市", 
+                "level": 3
+            }, 
+            {
+                "code": "419013", 
+                "type": "del", 
+                "name": "邓州市", 
+                "level": 3
+            }, 
+            {
+                "code": "419008", 
+                "type": "del", 
+                "name": "舞钢市", 
+                "level": 3
+            }, 
+            {
+                "code": "419011", 
+                "type": "del", 
+                "name": "长葛市", 
+                "level": 3
+            }, 
+            {
+                "code": "419010", 
+                "type": "del", 
+                "name": "灵宝市", 
+                "level": 3
+            }, 
+            {
+                "code": "419015", 
+                "type": "del", 
+                "name": "新密市", 
+                "level": 3
+            }, 
+            {
+                "code": "419002", 
+                "type": "del", 
+                "name": "汝州市", 
+                "level": 3
+            }, 
+            {
+                "code": "419003", 
+                "type": "del", 
+                "name": "济源市", 
+                "level": 3
+            }, 
+            {
+                "code": "419009", 
+                "type": "del", 
+                "name": "巩义市", 
+                "level": 3
+            }, 
+            {
+                "code": "419012", 
+                "type": "del", 
+                "name": "偃师市", 
+                "level": 3
+            }
+        ], 
+        "郑州市": [
+            {
+                "code": "410183", 
+                "type": "add", 
+                "name": "新密市", 
+                "level": 3
+            }, 
+            {
+                "code": "410185", 
+                "type": "add", 
+                "name": "登封市", 
+                "level": 3
+            }, 
+            {
+                "code": "410182", 
+                "type": "add", 
+                "name": "荥阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "410181", 
+                "type": "add", 
+                "name": "巩义市", 
+                "level": 3
+            }, 
+            {
+                "code": "410184", 
+                "type": "add", 
+                "name": "新郑市", 
+                "level": 3
+            }
+        ], 
+        "三门峡市": [
+            {
+                "code": "411281", 
+                "type": "add", 
+                "name": "义马市", 
+                "level": 3
+            }, 
+            {
+                "code": "411282", 
+                "type": "add", 
+                "name": "灵宝市", 
+                "level": 3
+            }
+        ], 
+        "焦作市": [
+            {
+                "code": "410882", 
+                "type": "add", 
+                "name": "沁阳市", 
+                "level": 3
+            }, 
+            {
+                "code": "410881", 
+                "type": "add", 
+                "name": "济源市", 
+                "level": 3
+            }
+        ], 
+        "许昌市": [
+            {
+                "code": "411081", 
+                "type": "add", 
+                "name": "禹州市", 
+                "level": 3
+            }, 
+            {
+                "code": "411082", 
+                "type": "add", 
+                "name": "长葛市", 
+                "level": 3
+            }
+        ], 
+        "洛阳市": [
+            {
+                "code": "410381", 
+                "type": "add", 
+                "name": "偃师市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "海南省": {
+        "三亚市": [
+            {
+                "code": "460005", 
+                "type": "add", 
+                "name": "文昌市", 
+                "level": 3
+            }, 
+            {
+                "code": "460022", 
+                "type": "del", 
+                "name": "文昌县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "内蒙古自治区": {
+        "呼和浩特市": [
+            {
+                "code": "150123", 
+                "type": "add", 
+                "name": "和林格尔县", 
+                "level": 3
+            }, 
+            {
+                "code": "150124", 
+                "type": "add", 
+                "name": "清水河县", 
+                "level": 3
+            }
+        ], 
+        "乌兰察布盟": [
+            {
+                "code": "152622", 
+                "type": "del", 
+                "name": "和林格尔县", 
+                "level": 3
+            }, 
+            {
+                "code": "152623", 
+                "type": "del", 
+                "name": "清水河县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "河北省": {
+        "廊坊市": [
+            {
+                "code": "131081", 
+                "type": "add", 
+                "name": "霸州市", 
+                "level": 3
+            }, 
+            {
+                "code": "131082", 
+                "type": "add", 
+                "name": "三河市", 
+                "level": 3
+            }
+        ], 
+        "邯郸市": [
+            {
+                "code": "130481", 
+                "type": "add", 
+                "name": "武安市", 
+                "level": 3
+            }
+        ], 
+        "邢台市": [
+            {
+                "code": "130582", 
+                "type": "add", 
+                "name": "沙河市", 
+                "level": 3
+            }, 
+            {
+                "code": "130581", 
+                "type": "add", 
+                "name": "南宫市", 
+                "level": 3
+            }
+        ], 
+        "石家庄市": [
+            {
+                "code": "130185", 
+                "type": "add", 
+                "name": "鹿泉市", 
+                "level": 3
+            }, 
+            {
+                "code": "130184", 
+                "type": "add", 
+                "name": "新乐市", 
+                "level": 3
+            }, 
+            {
+                "code": "130183", 
+                "type": "add", 
+                "name": "晋州市", 
+                "level": 3
+            }, 
+            {
+                "code": "130182", 
+                "type": "add", 
+                "name": "藁城市", 
+                "level": 3
+            }, 
+            {
+                "code": "130181", 
+                "type": "add", 
+                "name": "辛集市", 
+                "level": 3
+            }
+        ], 
+        "唐山市": [
+            {
+                "code": "130281", 
+                "type": "add", 
+                "name": "遵化市", 
+                "level": 3
+            }, 
+            {
+                "code": "130282", 
+                "type": "add", 
+                "name": "丰南市", 
+                "level": 3
+            }, 
+            {
+                "code": "130204", 
+                "type": "just_name_change", 
+                "name": "东矿区", 
+                "level": 3
+            }
+        ], 
+        "沧州市": [
+            {
+                "code": "130984", 
+                "type": "add", 
+                "name": "河间市", 
+                "level": 3
+            }, 
+            {
+                "code": "130983", 
+                "type": "add", 
+                "name": "黄骅市", 
+                "level": 3
+            }, 
+            {
+                "code": "130982", 
+                "type": "add", 
+                "name": "任丘市", 
+                "level": 3
+            }, 
+            {
+                "code": "130981", 
+                "type": "add", 
+                "name": "泊头市", 
+                "level": 3
+            }
+        ], 
+        "衡水地区": [
+            {
+                "code": "139007", 
+                "type": "del", 
+                "name": "新乐市", 
+                "level": 3
+            }, 
+            {
+                "code": "139016", 
+                "type": "del", 
+                "name": "涿州市", 
+                "level": 3
+            }, 
+            {
+                "code": "139017", 
+                "type": "del", 
+                "name": "安国市", 
+                "level": 3
+            }, 
+            {
+                "code": "139014", 
+                "type": "del", 
+                "name": "沙河市", 
+                "level": 3
+            }, 
+            {
+                "code": "139015", 
+                "type": "del", 
+                "name": "定州市", 
+                "level": 3
+            }, 
+            {
+                "code": "139012", 
+                "type": "del", 
+                "name": "三河市", 
+                "level": 3
+            }, 
+            {
+                "code": "139010", 
+                "type": "del", 
+                "name": "黄骅市", 
+                "level": 3
+            }, 
+            {
+                "code": "139011", 
+                "type": "del", 
+                "name": "河间市", 
+                "level": 3
+            }, 
+            {
+                "code": "139018", 
+                "type": "del", 
+                "name": "高碑店市", 
+                "level": 3
+            }, 
+            {
+                "code": "139019", 
+                "type": "del", 
+                "name": "鹿泉市", 
+                "level": 3
+            }, 
+            {
+                "code": "139005", 
+                "type": "del", 
+                "name": "藁城市", 
+                "level": 3
+            }, 
+            {
+                "code": "139004", 
+                "type": "del", 
+                "name": "辛集市", 
+                "level": 3
+            }, 
+            {
+                "code": "139006", 
+                "type": "del", 
+                "name": "晋州市", 
+                "level": 3
+            }, 
+            {
+                "code": "139001", 
+                "type": "del", 
+                "name": "武安市", 
+                "level": 3
+            }, 
+            {
+                "code": "139003", 
+                "type": "del", 
+                "name": "遵化市", 
+                "level": 3
+            }, 
+            {
+                "code": "139002", 
+                "type": "del", 
+                "name": "霸州市", 
+                "level": 3
+            }, 
+            {
+                "code": "139009", 
+                "type": "del", 
+                "name": "任丘市", 
+                "level": 3
+            }, 
+            {
+                "code": "139008", 
+                "type": "del", 
+                "name": "泊头市", 
+                "level": 3
+            }, 
+            {
+                "code": "139013", 
+                "type": "del", 
+                "name": "南宫市", 
+                "level": 3
+            }, 
+            {
+                "code": "139020", 
+                "type": "del", 
+                "name": "丰南市", 
+                "level": 3
+            }
+        ], 
+        "保定市": [
+            {
+                "code": "130681", 
+                "type": "add", 
+                "name": "涿州市", 
+                "level": 3
+            }, 
+            {
+                "code": "130682", 
+                "type": "add", 
+                "name": "定州市", 
+                "level": 3
+            }, 
+            {
+                "code": "130683", 
+                "type": "add", 
+                "name": "安国市", 
+                "level": 3
+            }, 
+            {
+                "code": "130684", 
+                "type": "add", 
+                "name": "高碑店市", 
+                "level": 3
+            }
+        ]
+    }
+}

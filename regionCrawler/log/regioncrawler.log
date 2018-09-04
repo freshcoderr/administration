@@ -1,0 +1,4 @@
+2018-08-22 10:38:59 [scrapy.utils.log] INFO: Scrapy 1.5.0 started (bot: scrapybot)
+2018-08-22 10:38:59 [scrapy.utils.log] INFO: Versions: lxml 4.2.1.0, libxml2 2.9.8, cssselect 1.0.3, parsel 1.4.0, w3lib 1.19.0, Twisted 18.4.0, Python 2.7.14 (default, Dec 22 2017, 20:32:41) - [GCC 4.2.1 Compatible Apple LLVM 9.0.0 (clang-900.0.39.2)], pyOpenSSL 18.0.0 (OpenSSL 1.1.0h  27 Mar 2018), cryptography 2.2.2, Platform Darwin-16.7.0-x86_64-i386-64bit
+2018-08-22 10:39:35 [scrapy.utils.log] INFO: Scrapy 1.5.0 started (bot: scrapybot)
+2018-08-22 10:39:35 [scrapy.utils.log] INFO: Versions: lxml 4.2.1.0, libxml2 2.9.8, cssselect 1.0.3, parsel 1.4.0, w3lib 1.19.0, Twisted 18.4.0, Python 2.7.14 (default, Dec 22 2017, 20:32:41) - [GCC 4.2.1 Compatible Apple LLVM 9.0.0 (clang-900.0.39.2)], pyOpenSSL 18.0.0 (OpenSSL 1.1.0h  27 Mar 2018), cryptography 2.2.2, Platform Darwin-16.7.0-x86_64-i386-64bit

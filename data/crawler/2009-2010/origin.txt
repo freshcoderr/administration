@@ -1,0 +1,113 @@
+{
+    "江苏省": {
+        "徐州市": [
+            {
+                "code": "320312", 
+                "type": "add", 
+                "name": "铜山区", 
+                "level": 3
+            }, 
+            {
+                "code": "320304", 
+                "type": "del", 
+                "name": "九里区", 
+                "level": 3
+            }, 
+            {
+                "code": "320323", 
+                "type": "del", 
+                "name": "铜山县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "云南省": {
+        "德宏傣族景颇族自治州": [
+            {
+                "code": "533103", 
+                "type": "just_name_change", 
+                "name": "潞西市", 
+                "level": 3
+            }
+        ], 
+        "红河哈尼族彝族自治州": [
+            {
+                "code": "532503", 
+                "type": "add", 
+                "name": "蒙自市", 
+                "level": 3
+            }, 
+            {
+                "code": "532522", 
+                "type": "del", 
+                "name": "蒙自县", 
+                "level": 3
+            }
+        ], 
+        "文山壮族苗族自治州": [
+            {
+                "code": "532601", 
+                "type": "add", 
+                "name": "文山市", 
+                "level": 3
+            }, 
+            {
+                "code": "532621", 
+                "type": "del", 
+                "name": "文山县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "吉林省": {
+        "白山市": [
+            {
+                "code": "220602", 
+                "type": "just_name_change", 
+                "name": "八道江区", 
+                "level": 3
+            }
+        ]
+    }, 
+    "year": "2009-2010", 
+    "江西省": {
+        "九江市": [
+            {
+                "code": "360482", 
+                "type": "add", 
+                "name": "共青城市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "北京市": [
+        {
+            "code": "110104", 
+            "type": "del", 
+            "name": "宣武区", 
+            "level": 2
+        }, 
+        {
+            "code": "110103", 
+            "type": "del", 
+            "name": "崇文区", 
+            "level": 2
+        }
+    ], 
+    "湖北省": {
+        "襄阳市": [
+            {
+                "code": "420607", 
+                "type": "just_name_change", 
+                "name": "襄阳区", 
+                "level": 3
+            }, 
+            {
+                "code": "420600", 
+                "type": "just_name_change", 
+                "name": "襄樊市", 
+                "level": 3
+            }
+        ]
+    }
+}
