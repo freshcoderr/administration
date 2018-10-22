@@ -71,13 +71,17 @@ def search(code_list, change_file, mapping_file, mapping_file_key, type, counter
                     province_code = tmp_code
                     province_name = mapping_file[tmp_code]
                     counter[province_name] += 1
+                    level = 2 if city_name == county_name else 3
                     if res.get(province_name):
                         if res[province_name].get(city_name):
-                            res[province_name][city_name].append({"type":type, "name":county_name, "code":code, "level":3})
+                            # res[province_name][city_name].append({"type": type, "name": county_name, "code": code, "level": 3})
+                            res[province_name][city_name].append({"type": type, "name": county_name, "code": code, "level": level})
                         else:
-                            res[province_name][city_name] = [{"type":type, "name":county_name, "code":code, "level":3}]
+                            # res[province_name][city_name] = [{"type": type, "name": county_name, "code": code, "level": 3}]
+                            res[province_name][city_name] = [{"type": type, "name": county_name, "code": code, "level": level}]
                     else:
-                        res[province_name] = {city_name:[{"type":type, "name":county_name, "code":code, "level":3}]}
+                        # res[province_name] = {city_name: [{"type": type, "name": county_name, "code": code, "level": 3}]}
+                        res[province_name] = {city_name: [{"type": type, "name": county_name, "code": code, "level": level}]}
                     # print province_name,city_name,county_name
                     break
             index_ -= 1
@@ -115,8 +119,8 @@ def process(in_file1, in_file2):
     res = search(add.keys(), add, file1, file1_key, "add", counter, res)
     res = search(delete.keys(), delete, file2, file2_key, "del", counter, res)
     res = search(namechange.keys(), namechange, file1, file1_key, "just_name_change", counter, res)
-    print json.dumps(res, ensure_ascii=False, encoding="utf-8", indent=4), len(res)
-    print json.dumps(counter, ensure_ascii=False, encoding="utf-8", indent=4)
+    # print json.dumps(res, ensure_ascii=False, encoding="utf-8", indent=4), len(res)
+    # print json.dumps(counter, ensure_ascii=False, encoding="utf-8", indent=4)
 
     saveData(res)
 

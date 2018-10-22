@@ -51,6 +51,9 @@ def save_data(out_file_path, result):
     out_file.close()
     logging.info("data saved to '{}'".format(out_file_path))
 
+    out_file2 = open(out_file_path+"_1line", "w")
+    print >> out_file2, json.dumps(result, ensure_ascii=False, encoding="utf-8")
+
 
 def load_data(in_file_path):
     file2dict = {}

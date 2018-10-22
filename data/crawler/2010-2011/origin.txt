@@ -1,0 +1,451 @@
+{
+    "新疆维吾尔自治区": {
+        "阿勒泰地区": [
+            {
+                "code": "659005", 
+                "type": "add", 
+                "name": "北屯市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "江苏省": {
+        "扬州市": [
+            {
+                "code": "321012", 
+                "type": "add", 
+                "name": "江都区", 
+                "level": 3
+            }, 
+            {
+                "code": "321011", 
+                "type": "del", 
+                "name": "维扬区", 
+                "level": 3
+            }, 
+            {
+                "code": "321088", 
+                "type": "del", 
+                "name": "江都市", 
+                "level": 3
+            }
+        ], 
+        "淮安市": [
+            {
+                "code": "320803", 
+                "type": "just_name_change", 
+                "name": "楚州区", 
+                "level": 3
+            }
+        ]
+    }, 
+    "云南省": {
+        "昆明市": [
+            {
+                "code": "530114", 
+                "type": "add", 
+                "name": "呈贡区", 
+                "level": 3
+            }, 
+            {
+                "code": "530121", 
+                "type": "del", 
+                "name": "呈贡县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "上海市": [
+        {
+            "code": "310103", 
+            "type": "del", 
+            "name": "卢湾区", 
+            "level": 2
+        }
+    ], 
+    "四川省": {
+        "宜宾市": [
+            {
+                "code": "511503", 
+                "type": "add", 
+                "name": "南溪区", 
+                "level": 3
+            }, 
+            {
+                "code": "511522", 
+                "type": "del", 
+                "name": "南溪县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "重庆市": [
+        {
+            "code": "500222", 
+            "type": "del", 
+            "name": "綦江县", 
+            "level": 2
+        }, 
+        {
+            "code": "500225", 
+            "type": "del", 
+            "name": "大足县", 
+            "level": 2
+        }, 
+        {
+            "code": "500111", 
+            "type": "just_name_change", 
+            "name": "双桥区", 
+            "level": 2
+        }, 
+        {
+            "code": "500110", 
+            "type": "just_name_change", 
+            "name": "万盛区", 
+            "level": 2
+        }
+    ], 
+    "安徽省": {
+        "芜湖市": [
+            {
+                "code": "340225", 
+                "type": "add", 
+                "name": "无为县", 
+                "level": 3
+            }
+        ], 
+        "合肥市": [
+            {
+                "code": "340124", 
+                "type": "add", 
+                "name": "庐江县", 
+                "level": 3
+            }, 
+            {
+                "code": "340181", 
+                "type": "add", 
+                "name": "巢湖市", 
+                "level": 3
+            }
+        ], 
+        "马鞍山市": [
+            {
+                "code": "340522", 
+                "type": "add", 
+                "name": "含山县", 
+                "level": 3
+            }, 
+            {
+                "code": "340523", 
+                "type": "add", 
+                "name": "和县", 
+                "level": 3
+            }
+        ], 
+        "巢湖市": [
+            {
+                "code": "341424", 
+                "type": "del", 
+                "name": "和县", 
+                "level": 3
+            }, 
+            {
+                "code": "341400", 
+                "type": "del", 
+                "name": "巢湖市", 
+                "level": 2
+            }, 
+            {
+                "code": "341402", 
+                "type": "del", 
+                "name": "居巢区", 
+                "level": 3
+            }, 
+            {
+                "code": "341422", 
+                "type": "del", 
+                "name": "无为县", 
+                "level": 3
+            }, 
+            {
+                "code": "341423", 
+                "type": "del", 
+                "name": "含山县", 
+                "level": 3
+            }, 
+            {
+                "code": "341421", 
+                "type": "del", 
+                "name": "庐江县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "year": "2010-2011", 
+    "贵州省": {
+        "毕节市": [
+            {
+                "code": "520524", 
+                "type": "add", 
+                "name": "织金县", 
+                "level": 3
+            }, 
+            {
+                "code": "520526", 
+                "type": "add", 
+                "name": "威宁彝族回族苗族自治县", 
+                "level": 3
+            }, 
+            {
+                "code": "520521", 
+                "type": "add", 
+                "name": "大方县", 
+                "level": 3
+            }, 
+            {
+                "code": "520522", 
+                "type": "add", 
+                "name": "黔西县", 
+                "level": 3
+            }, 
+            {
+                "code": "520523", 
+                "type": "add", 
+                "name": "金沙县", 
+                "level": 3
+            }, 
+            {
+                "code": "520502", 
+                "type": "add", 
+                "name": "七星关区", 
+                "level": 3
+            }, 
+            {
+                "code": "520525", 
+                "type": "add", 
+                "name": "纳雍县", 
+                "level": 3
+            }, 
+            {
+                "code": "520500", 
+                "type": "add", 
+                "name": "毕节市", 
+                "level": 2
+            }, 
+            {
+                "code": "520527", 
+                "type": "add", 
+                "name": "赫章县", 
+                "level": 3
+            }
+        ], 
+        "毕节地区": [
+            {
+                "code": "522424", 
+                "type": "del", 
+                "name": "金沙县", 
+                "level": 3
+            }, 
+            {
+                "code": "522423", 
+                "type": "del", 
+                "name": "黔西县", 
+                "level": 3
+            }, 
+            {
+                "code": "522422", 
+                "type": "del", 
+                "name": "大方县", 
+                "level": 3
+            }, 
+            {
+                "code": "522428", 
+                "type": "del", 
+                "name": "赫章县", 
+                "level": 3
+            }, 
+            {
+                "code": "522401", 
+                "type": "del", 
+                "name": "毕节市", 
+                "level": 3
+            }, 
+            {
+                "code": "522400", 
+                "type": "del", 
+                "name": "毕节地区", 
+                "level": 2
+            }, 
+            {
+                "code": "522427", 
+                "type": "del", 
+                "name": "威宁彝族回族苗族自治县", 
+                "level": 3
+            }, 
+            {
+                "code": "522426", 
+                "type": "del", 
+                "name": "纳雍县", 
+                "level": 3
+            }, 
+            {
+                "code": "522425", 
+                "type": "del", 
+                "name": "织金县", 
+                "level": 3
+            }
+        ], 
+        "铜仁地区": [
+            {
+                "code": "522230", 
+                "type": "del", 
+                "name": "万山特区", 
+                "level": 3
+            }, 
+            {
+                "code": "522229", 
+                "type": "del", 
+                "name": "松桃苗族自治县", 
+                "level": 3
+            }, 
+            {
+                "code": "522201", 
+                "type": "del", 
+                "name": "铜仁市", 
+                "level": 3
+            }, 
+            {
+                "code": "522200", 
+                "type": "del", 
+                "name": "铜仁地区", 
+                "level": 2
+            }, 
+            {
+                "code": "522228", 
+                "type": "del", 
+                "name": "沿河土家族自治县", 
+                "level": 3
+            }, 
+            {
+                "code": "522223", 
+                "type": "del", 
+                "name": "玉屏侗族自治县", 
+                "level": 3
+            }, 
+            {
+                "code": "522222", 
+                "type": "del", 
+                "name": "江口县", 
+                "level": 3
+            }, 
+            {
+                "code": "522225", 
+                "type": "del", 
+                "name": "思南县", 
+                "level": 3
+            }, 
+            {
+                "code": "522224", 
+                "type": "del", 
+                "name": "石阡县", 
+                "level": 3
+            }, 
+            {
+                "code": "522227", 
+                "type": "del", 
+                "name": "德江县", 
+                "level": 3
+            }, 
+            {
+                "code": "522226", 
+                "type": "del", 
+                "name": "印江土家族苗族自治县", 
+                "level": 3
+            }
+        ], 
+        "铜仁市": [
+            {
+                "code": "520627", 
+                "type": "add", 
+                "name": "沿河土家族自治县", 
+                "level": 3
+            }, 
+            {
+                "code": "520626", 
+                "type": "add", 
+                "name": "德江县", 
+                "level": 3
+            }, 
+            {
+                "code": "520625", 
+                "type": "add", 
+                "name": "印江土家族苗族自治县", 
+                "level": 3
+            }, 
+            {
+                "code": "520624", 
+                "type": "add", 
+                "name": "思南县", 
+                "level": 3
+            }, 
+            {
+                "code": "520623", 
+                "type": "add", 
+                "name": "石阡县", 
+                "level": 3
+            }, 
+            {
+                "code": "520622", 
+                "type": "add", 
+                "name": "玉屏侗族自治县", 
+                "level": 3
+            }, 
+            {
+                "code": "520621", 
+                "type": "add", 
+                "name": "江口县", 
+                "level": 3
+            }, 
+            {
+                "code": "520628", 
+                "type": "add", 
+                "name": "松桃苗族自治县", 
+                "level": 3
+            }, 
+            {
+                "code": "520600", 
+                "type": "add", 
+                "name": "铜仁市", 
+                "level": 2
+            }, 
+            {
+                "code": "520603", 
+                "type": "add", 
+                "name": "万山区", 
+                "level": 3
+            }, 
+            {
+                "code": "520602", 
+                "type": "add", 
+                "name": "碧江区", 
+                "level": 3
+            }
+        ]
+    }, 
+    "湖南省": {
+        "长沙市": [
+            {
+                "code": "430112", 
+                "type": "add", 
+                "name": "望城区", 
+                "level": 3
+            }, 
+            {
+                "code": "430122", 
+                "type": "del", 
+                "name": "望城县", 
+                "level": 3
+            }
+        ]
+    }
+}

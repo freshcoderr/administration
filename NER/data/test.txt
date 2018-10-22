@@ -1,0 +1,100 @@
+^ 2 0 1 6 年 月 日 国 务 院 批 复 同 意 撤 销 开 县 设 立 重 庆 市 开 州 区 2 0 1 6 年 月 2 2 日 开 州 区 正 式 挂 牌 成 立 $
+O O O O O O O O O O O O O O O O O X X O O X X X X X X O O O O O O O O O X X X O O O O O O O
+^ 2 0 1 6 年 月 1 5 日 民 政 部 批 复 抚 远 撤 县 设 市 $
+O O O O O O O O O O O O O O O O O O O O O O
+^ 2 0 1 6 年 月 1 5 日 民 政 部 批 复 抚 远 撤 县 设 市 $
+O O O O O O O O O O O O O O O O O O O O O O
+^ 2 0 1 6 年 1 1 月 2 4 日 2 0 1 6 年 1 2 月 1 2 日 国 务 院 云 南 省 人 民 政 府 相 继 批 复 同 意 撤 销 晋 宁 县 设 立 昆 明 市 晋 宁 区 晋 宁 区 行 政 区 域 为 原 晋 宁 县 行 政 区 域 晋 宁 区 人 民 政 府 驻 昆 阳 街 道 郑 和 路 3 6 5 号 $
+O O O O O O O O O O O O O O O O O O O O O O O O O O X X X O O O O O O O O O O O O X X X O O X X X X X X X X X O O O O O O X X X O O O O X X X O O O O O O O O O O O O O O O O O
+^ 2 0 1 6 年 月 日 国 务 院 云 南 省 人 民 政 府 提 交 撤 销 沾 益 县 设 立 曲 靖 市 沾 益 区 请 示 作 出 批 复 同 意 撤 销 沾 益 县 设 立 曲 靖 市 沾 益 区 以 原 沾 益 县 行 政 区 域 沾 益 区 行 政 区 域 $
+O O O O O O O O O O O X X X O O O O O O O O X X X O O X X X X X X O O O O O O O O O O X X X O O X X X X X X O O X X X O O O O X X X O O O O O
+^ 2 0 1 6 年 月 日 国 务 院 批 复 同 意 撤 销 开 县 设 立 重 庆 市 开 州 区 2 0 1 6 年 月 2 2 日 开 州 区 正 式 挂 牌 成 立 $
+O O O O O O O O O O O O O O O O O X X O O X X X X X X O O O O O O O O O X X X O O O O O O O
+^ 2 0 1 6 年 1 1 月 2 4 日 国 务 院 正 式 签 发 国 务 院 同 意 重 庆 市 调 整 行 政 区 划 批 复 同 意 撤 销 梁 平 县 设 立 梁 平 区 $
+O O O O O O O O O O O O O O O O O O O O O O O O X X X O O O O O O O O O O O O X X X O O X X X O
+^ 2 0 1 6 年 月 日 国 务 院 批 复 同 意 撤 销 定 陶 县 设 立 菏 泽 市 定 陶 区 以 原 定 陶 县 行 政 区 域 定 陶 区 行 政 区 域 定 陶 区 人 民 政 府 驻 天 中 街 道 陶 朱 公 大 街 9 3 9 号 2 0 1 6 年 月 2 9 日 上 午 1 0 时 菏 泽 市 定 陶 区 成 立 大 会 $
+O O O O O O O O O O O O O O O O O X X X O O X X X X X X O O X X X O O O O X X X O O O O X X X O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O X X X X X X O O O O O
+^ 2 0 1 6 年 月 日 正 式 撤 销 垦 利 县 设 立 东 营 市 垦 利 区 以 原 垦 利 县 行 政 区 域 东 营 市 垦 利 区 行 政 区 域 $
+O O O O O O O O O O O O X X X O O X X X X X X O O X X X O O O O X X X X X X O O O O O
+^ 2 0 1 6 年 1 2 月 2 2 日 撤 销 县 级 章 丘 市 设 立 济 南 市 章 丘 区 $
+O O O O O O O O O O O O O O O O X X X O O X X X X X X O
+^ 1 9 9 8 年 1 2 月 正 式 撤 销 涪 陵 市 武 隆 县 重 庆 市 直 管 2 0 1 6 年 1 1 月 2 4 日 国 务 院 正 式 签 发 国 务 院 同 意 重 庆 市 调 整 行 政 区 划 批 复 国 函 2 0 1 6 1 8 5 号 同 意 撤 销 武 隆 县 设 立 武 隆 区 $
+O O O O O O O O O O O O O O O O X X X X X X O O O O O O O O O O O O O O O O O O O O O O O O O X X X O O O O O O O O O O O O O O O O O O O O O O X X X O O X X X O
+^ 2 0 1 6 年 国 务 院 批 准 同 意 撤 销 泸 水 县 设 立 县 级 泸 水 市 以 原 泸 水 县 行 政 区 域 泸 水 市 行 政 区 域 泸 水 市 人 民 政 府 驻 六 库 镇 龙 江 路 号 $
+O O O O O O O O O O O O O O O X X X O O O O X X X O O X X X O O O O X X X O O O O X X X O O O O O O O O O O O O O
+^ 2 0 1 5 年 撤 销 大 西 韩 乡 设 立 大 寺 上 镇 冀 民 函 2 0 1 5 1 7 6 号 2 0 1 6 年 月 3 0 日 下 午 国 务 院 下 发 国 务 院 同 意 河 北 省 调 整 邯 郸 市 行 政 区 划 批 复 同 意 撤 销 肥 乡 县 设 立 邯 郸 市 肥 乡 区 以 原 肥 乡 县 行 政 区 域 肥 乡 区 行 政 区 域 $
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O X X X O O X X X O O O O O O O O O O X X X O O X X X X X X O O X X X O O O O X X X O O O O O
+^ 2 0 1 6 年 1 1 月 2 4 日 2 0 1 6 年 1 2 月 1 2 日 国 务 院 云 南 省 人 民 政 府 相 继 批 复 同 意 撤 销 晋 宁 县 设 立 昆 明 市 晋 宁 区 晋 宁 区 行 政 区 域 为 原 晋 宁 县 行 政 区 域 晋 宁 区 人 民 政 府 驻 昆 阳 街 道 郑 和 路 3 6 5 号 $
+O O O O O O O O O O O O O O O O O O O O O O O O O O X X X O O O O O O O O O O O O X X X O O X X X X X X X X X O O O O O O X X X O O O O X X X O O O O O O O O O O O O O O O O O
+^ 2 0 1 6 年 月 日 国 务 院 云 南 省 人 民 政 府 提 交 撤 销 沾 益 县 设 立 曲 靖 市 沾 益 区 请 示 作 出 批 复 同 意 撤 销 沾 益 县 设 立 曲 靖 市 沾 益 区 以 原 沾 益 县 行 政 区 域 沾 益 区 行 政 区 域 $
+O O O O O O O O O O O X X X O O O O O O O O X X X O O X X X X X X O O O O O O O O O O X X X O O X X X X X X O O X X X O O O O X X X O O O O O
+^ 2 0 1 6 年 国 务 院 批 准 同 意 撤 销 泸 水 县 设 立 县 级 泸 水 市 以 原 泸 水 县 行 政 区 域 泸 水 市 行 政 区 域 泸 水 市 人 民 政 府 驻 六 库 镇 龙 江 路 号 $
+O O O O O O O O O O O O O O O X X X O O O O X X X O O X X X O O O O X X X O O O O X X X O O O O O O O O O O O O O
+^ 1 9 5 8 年 县 城 广 府 镇 迁 至 洺 关 镇 属 邯 郸 张 邯 郸 市 2 0 1 6 年 月 3 0 日 2 0 1 6 年 月 3 0 日 下 午 邯 郸 市 行 政 区 划 调 整 动 员 大 会 宣 读 国 务 院 同 意 河 北 省 调 整 邯 郸 市 行 政 区 划 批 复 同 意 撤 销 永 年 县 设 立 邯 郸 市 永 年 区 以 原 永 年 县 行 政 区 域 不 含 南 沿 村 镇 小 西 堡 乡 姚 寨 乡 永 年 区 行 政 区 域 永 年 区 人 民 政 府 驻 临 洺 关 镇 洺 洲 大 道 2 5 号 $
+O O O O O O O O O O O O O O O O O O O O X X X O O O O O O O O O O O O O O O O O O O O X X X O O O O O O O O O O O O O O O O O X X X O O X X X O O O O O O O O O O X X X O O X X X X X X O O X X X O O O O O O O O O O O O O O O O O X X X O O O O X X X O O O O O O O O O O O O O O O O O
+^ 2 0 1 6 年 月 2 7 日 张 家 口 市 行 政 区 划 调 整 获 国 务 院 批 复 同 意 撤 销 崇 礼 县 设 立 崇 礼 区 管 辖 政 府 驻 地 $
+O O O O O O O O O O X X X X O O O O O O O O O O O O O O O O X X X O O X X X O O O O O O O
+^ 2 0 1 6 年 月 日 国 务 院 批 复 同 意 撤 销 定 陶 县 设 立 菏 泽 市 定 陶 区 以 原 定 陶 县 行 政 区 域 定 陶 区 行 政 区 域 定 陶 区 人 民 政 府 驻 天 中 街 道 陶 朱 公 大 街 9 3 9 号 2 0 1 6 年 月 2 9 日 上 午 1 0 时 菏 泽 市 定 陶 区 成 立 大 会 $
+O O O O O O O O O O O O O O O O O X X X O O X X X X X X O O X X X O O O O X X X O O O O X X X O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O X X X X X X O O O O O
+^ 2 0 1 6 年 1 2 月 2 2 日 撤 销 县 级 章 丘 市 设 立 济 南 市 章 丘 区 $
+O O O O O O O O O O O O O O O O X X X O O X X X X X X O
+^ 2 0 1 6 年 月 日 正 式 撤 销 垦 利 县 设 立 东 营 市 垦 利 区 以 原 垦 利 县 行 政 区 域 东 营 市 垦 利 区 行 政 区 域 $
+O O O O O O O O O O O O X X X O O X X X X X X O O X X X O O O O X X X X X X O O O O O
+^ 2 0 1 6 年 月 2 7 日 张 家 口 市 行 政 区 划 调 整 获 国 务 院 批 复 同 意 撤 销 万 全 县 设 立 万 全 区 管 辖 政 府 驻 地 $
+O O O O O O O O O O X X X X O O O O O O O O O O O O O O O O X X X O O X X X O O O O O O O
+^ 2 0 1 6 年 月 日 国 务 院 批 准 撤 销 县 级 冀 州 市 设 立 衡 水 市 冀 州 区 以 原 冀 州 市 行 政 区 域 冀 州 区 行 政 区 域 $
+O O O O O O O O O O O O O O O O O X X X O O X X X X X X O O X X X O O O O X X X O O O O O
+^ 2 0 1 6 年 月 撤 销 邯 郸 县 原 邯 郸 县 下 辖 乡 镇 丛 台 区 邯 山 区 管 辖 $
+O O O O O O O O O X X X O X X X O O O O X X X X X X O O O
+^ 1 9 5 8 年 县 城 广 府 镇 迁 至 洺 关 镇 属 邯 郸 张 邯 郸 市 2 0 1 6 年 月 3 0 日 2 0 1 6 年 月 3 0 日 下 午 邯 郸 市 行 政 区 划 调 整 动 员 大 会 宣 读 国 务 院 同 意 河 北 省 调 整 邯 郸 市 行 政 区 划 批 复 同 意 撤 销 永 年 县 设 立 邯 郸 市 永 年 区 以 原 永 年 县 行 政 区 域 不 含 南 沿 村 镇 小 西 堡 乡 姚 寨 乡 永 年 区 行 政 区 域 永 年 区 人 民 政 府 驻 临 洺 关 镇 洺 洲 大 道 2 5 号 $
+O O O O O O O O O O O O O O O O O O O O X X X O O O O O O O O O O O O O O O O O O O O X X X O O O O O O O O O O O O O O O O O X X X O O X X X O O O O O O O O O O X X X O O X X X X X X O O X X X O O O O O O O O O O O O O O O O O X X X O O O O X X X O O O O O O O O O O O O O O O O O
+^ 2 0 1 6 年 月 国 务 院 批 复 同 意 撤 销 乃 东 县 设 立 乃 东 区 以 原 乃 东 县 行 政 区 域 乃 东 区 行 政 区 域 $
+O O O O O O O O O O O O O O O O X X X O O X X X O O X X X O O O O X X X O O O O O
+^ 2 0 1 5 年 撤 销 大 西 韩 乡 设 立 大 寺 上 镇 冀 民 函 2 0 1 5 1 7 6 号 2 0 1 6 年 月 3 0 日 下 午 国 务 院 下 发 国 务 院 同 意 河 北 省 调 整 邯 郸 市 行 政 区 划 批 复 同 意 撤 销 肥 乡 县 设 立 邯 郸 市 肥 乡 区 以 原 肥 乡 县 行 政 区 域 肥 乡 区 行 政 区 域 $
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O X X X O O X X X O O O O O O O O O O X X X O O X X X X X X O O X X X O O O O X X X O O O O O
+^ 2 0 1 6 年 月 2 7 日 张 家 口 市 行 政 区 划 调 整 获 国 务 院 批 复 同 意 撤 销 崇 礼 县 设 立 崇 礼 区 管 辖 政 府 驻 地 $
+O O O O O O O O O O X X X X O O O O O O O O O O O O O O O O X X X O O X X X O O O O O O O
+^ 2 0 1 6 年 月 山 南 撤 地 设 市 琼 结 县 属 山 南 市 管 辖 $
+O O O O O O O O O O O O O X X X O X X X O O O
+^ 2 0 1 6 年 月 山 南 撤 地 设 市 贡 嘎 县 属 山 南 市 管 辖 $
+O O O O O O O O O O O O O X X X O X X X O O O
+^ 2 0 1 6 年 月 山 南 撤 地 设 市 洛 扎 县 属 山 南 市 管 辖 $
+O O O O O O O O O O O O O X X X O X X X O O O
+^ 2 0 1 6 年 月 山 南 撤 地 设 市 曲 松 县 隶 属 于 山 南 市 $
+O O O O O O O O O O O O O X X X O O O X X X O
+^ 2 0 1 6 年 月 山 南 撤 地 设 市 桑 日 县 属 山 南 市 管 辖 $
+O O O O O O O O O O O O O X X X O X X X O O O
+^ 2 0 1 6 年 月 2 7 日 张 家 口 市 行 政 区 划 调 整 获 国 务 院 批 复 同 意 撤 销 万 全 县 设 立 万 全 区 管 辖 政 府 驻 地 $
+O O O O O O O O O O X X X X O O O O O O O O O O O O O O O O X X X O O X X X O O O O O O O
+^ 2 0 1 6 年 月 日 国 务 院 批 准 撤 销 县 级 冀 州 市 设 立 衡 水 市 冀 州 区 以 原 冀 州 市 行 政 区 域 冀 州 区 行 政 区 域 $
+O O O O O O O O O O O O O O O O O X X X O O X X X X X X O O X X X O O O O X X X O O O O O
+^ 2 0 1 6 年 月 国 务 院 批 复 同 意 撤 销 山 南 地 区 乃 东 县 设 立 地 级 山 南 市 山 南 市 设 立 乃 东 区 以 原 乃 东 县 行 政 区 域 乃 东 区 行 政 区 域 2 0 1 6 年 月 2 7 日 中 共 山 南 市 委 市 人 大 市 政 府 市 政 协 市 纪 委 揭 牌 仪 式 标 志 山 南 市 班 子 正 式 依 法 履 职 $
+O O O O O O O O O O O O O O O O X X X X X X X O O O O X X X X X X O O X X X O O X X X O O O O X X X O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O X X X O O O O O O O O O
+^ 2 0 1 6 年 月 山 南 撤 地 设 市 加 查 县 属 山 南 市 管 辖 $
+O O O O O O O O O O O O O X X X O X X X O O O
+^ 2 0 1 6 年 月 山 南 地 区 撤 地 设 市 扎 囊 县 属 山 南 市 管 辖 $
+O O O O O O O X X X X O O O O X X X O X X X O O O
+^ 2 0 1 6 年 月 山 南 撤 地 设 市 隆 子 县 山 南 市 管 辖 $
+O O O O O O O O O O O O O X X X X X X O O O
+^ 2 0 1 6 年 月 属 地 级 山 南 市 $
+O O O O O O O O O O X X X O
+^ 2 0 0 0 年 措 美 县 辖 镇 乡 2 0 1 6 年 月 山 南 撤 地 设 市 措 美 县 属 山 南 市 管 辖 $
+O O O O O O X X X O O O O O O O O O O O O O O O X X X O X X X O O O
+^ 2 0 1 6 年 月 撤 销 洪 泽 县 设 立 淮 安 市 洪 泽 区 以 原 洪 泽 县 行 政 区 域 洪 泽 区 行 政 区 域 2 0 1 6 年 1 0 月 日 淮 安 市 洪 泽 区 正 式 挂 牌 成 立 $
+O O O O O O O O O X X X O O X X X X X X O O X X X O O O O X X X O O O O O O O O O O O O O X X X X X X O O O O O O O
+^ 2 0 1 6 年 月 山 南 撤 地 设 市 此 县 山 南 市 $
+O O O O O O O O O O O O O O O X X X O
+^ 2 0 1 5 年 1 2 月 2 2 日 中 共 淮 安 市 第 六 次 代 表 大 会 第 五 次 会 议 淮 安 新 一 轮 新 行 政 区 划 调 整 2 0 1 6 年 月 国 务 院 同 意 江 苏 省 调 整 淮 安 市 行 政 区 划 批 复 同 意 撤 销 淮 安 市 清 河 区 清 浦 区 设 立 淮 安 市 清 江 浦 区 以 原 清 河 区 清 浦 区 行 政 区 域 清 江 浦 区 行 政 区 域 清 江 浦 区 人 民 政 府 驻 城 南 乡 淮 海 南 路 2 6 8 号 $
+O O O O O O O O O O O O O O X X X O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O X X X O O X X X O O O O O O O O O O X X X X X X X X X O O X X X X X X X O O X X X X X X O O O O X X X X O O O O X X X X O O O O O O O O O O O O O O O O O
+^ 2 0 1 6 年 月 2 2 日 上 海 市 委 市 政 府 崇 明 崇 明 撤 县 设 区 工 作 大 会 会 上 上 海 唯 一 县 崇 明 县 撤 县 设 区 $
+O O O O O O O O O O X X X O O O O O O O O O O O O O O O O O O O O O O O X X X O O O O O
+^ 2 0 1 6 年 月 国 务 院 同 意 天 津 市 调 整 行 政 区 划 批 复 国 函 2 0 1 6 9 8 号 同 意 撤 销 蓟 县 设 立 天 津 市 蓟 州 区 以 原 蓟 县 行 政 区 域 蓟 州 区 行 政 区 域 蓟 州 区 人 民 政 府 驻 文 昌 街 街 道 府 前 街 号 $
+O O O O O O O O O O O O X X X O O O O O O O O O O O O O O O O O O O O O X X O O X X X X X X O O X X O O O O X X X O O O O X X X O O O O O O O O O O O O O O O
+^ 2 0 1 6 年 月 国 务 院 批 复 同 意 撤 销 山 南 地 区 乃 东 县 设 立 地 级 山 南 市 山 南 市 设 立 乃 东 区 以 原 乃 东 县 行 政 区 域 乃 东 区 行 政 区 域 2 0 1 6 年 月 2 7 日 中 共 山 南 市 委 市 人 大 市 政 府 市 政 协 市 纪 委 揭 牌 仪 式 标 志 山 南 市 班 子 正 式 依 法 履 职 $
+O O O O O O O O O O O O O O O O X X X X X X X O O O O X X X X X X O O X X X O O X X X O O O O X X X O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O X X X O O O O O O O O O
+^ 2 0 1 6 年 月 国 务 院 批 复 同 意 撤 销 乃 东 县 设 立 乃 东 区 以 原 乃 东 县 行 政 区 域 乃 东 区 行 政 区 域 $
+O O O O O O O O O O O O O O O O X X X O O X X X O O X X X O O O O X X X O O O O O
+^ 2 0 1 6 年 月 2 2 日 上 海 市 委 市 政 府 崇 明 崇 明 撤 县 设 区 工 作 大 会 会 上 上 海 唯 一 县 崇 明 县 撤 县 设 区 $
+O O O O O O O O O O X X X O O O O O O O O O O O O O O O O O O O O O O O X X X O O O O O
+^ 2 0 1 6 年 月 日 国 务 院 下 达 批 复 同 意 撤 销 哈 密 地 区 县 级 哈 密 市 设 立 地 级 哈 密 市 伊 州 区 $
+O O O O O O O O O O O O O O O O O O O X X X X O O X X X O O O O X X X X X X O

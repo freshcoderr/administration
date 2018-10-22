@@ -1,0 +1,833 @@
+{
+    "山东省": {
+        "德州市": [
+            {
+                "code": "371403", 
+                "type": "add", 
+                "name": "陵城区", 
+                "level": 3
+            }, 
+            {
+                "code": "371421", 
+                "type": "del", 
+                "name": "陵县", 
+                "level": 3
+            }
+        ], 
+        "临沂市": [
+            {
+                "code": "371324", 
+                "type": "just_name_change", 
+                "name": "苍山县", 
+                "level": 3
+            }
+        ], 
+        "滨州市": [
+            {
+                "code": "371603", 
+                "type": "add", 
+                "name": "沾化区", 
+                "level": 3
+            }, 
+            {
+                "code": "371624", 
+                "type": "del", 
+                "name": "沾化县", 
+                "level": 3
+            }
+        ], 
+        "威海市": [
+            {
+                "code": "371003", 
+                "type": "add", 
+                "name": "文登区", 
+                "level": 3
+            }, 
+            {
+                "code": "371081", 
+                "type": "del", 
+                "name": "文登市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "新疆维吾尔自治区": {
+        "阿勒泰地区": [
+            {
+                "code": "659007", 
+                "type": "add", 
+                "name": "双河市", 
+                "level": 3
+            }
+        ], 
+        "伊犁哈萨克自治州": [
+            {
+                "code": "654004", 
+                "type": "add", 
+                "name": "霍尔果斯市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "福建省": {
+        "南平市": [
+            {
+                "code": "350703", 
+                "type": "add", 
+                "name": "建阳区", 
+                "level": 3
+            }, 
+            {
+                "code": "350784", 
+                "type": "del", 
+                "name": "建阳市", 
+                "level": 3
+            }
+        ], 
+        "龙岩市": [
+            {
+                "code": "350803", 
+                "type": "add", 
+                "name": "永定区", 
+                "level": 3
+            }, 
+            {
+                "code": "350822", 
+                "type": "del", 
+                "name": "永定县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "河南省": {
+        "开封市": [
+            {
+                "code": "410212", 
+                "type": "add", 
+                "name": "祥符区", 
+                "level": 3
+            }, 
+            {
+                "code": "410211", 
+                "type": "del", 
+                "name": "金明区", 
+                "level": 3
+            }, 
+            {
+                "code": "410224", 
+                "type": "del", 
+                "name": "开封县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "西藏自治区": {
+        "日喀则市": [
+            {
+                "code": "540225", 
+                "type": "add", 
+                "name": "拉孜县", 
+                "level": 3
+            }, 
+            {
+                "code": "540224", 
+                "type": "add", 
+                "name": "萨迦县", 
+                "level": 3
+            }, 
+            {
+                "code": "540227", 
+                "type": "add", 
+                "name": "谢通门县", 
+                "level": 3
+            }, 
+            {
+                "code": "540226", 
+                "type": "add", 
+                "name": "昂仁县", 
+                "level": 3
+            }, 
+            {
+                "code": "540221", 
+                "type": "add", 
+                "name": "南木林县", 
+                "level": 3
+            }, 
+            {
+                "code": "540223", 
+                "type": "add", 
+                "name": "定日县", 
+                "level": 3
+            }, 
+            {
+                "code": "540229", 
+                "type": "add", 
+                "name": "仁布县", 
+                "level": 3
+            }, 
+            {
+                "code": "540202", 
+                "type": "add", 
+                "name": "桑珠孜区", 
+                "level": 3
+            }, 
+            {
+                "code": "540200", 
+                "type": "add", 
+                "name": "日喀则市", 
+                "level": 2
+            }, 
+            {
+                "code": "540222", 
+                "type": "add", 
+                "name": "江孜县", 
+                "level": 3
+            }, 
+            {
+                "code": "540236", 
+                "type": "add", 
+                "name": "萨嘎县", 
+                "level": 3
+            }, 
+            {
+                "code": "540235", 
+                "type": "add", 
+                "name": "聂拉木县", 
+                "level": 3
+            }, 
+            {
+                "code": "540232", 
+                "type": "add", 
+                "name": "仲巴县", 
+                "level": 3
+            }, 
+            {
+                "code": "540233", 
+                "type": "add", 
+                "name": "亚东县", 
+                "level": 3
+            }, 
+            {
+                "code": "540230", 
+                "type": "add", 
+                "name": "康马县", 
+                "level": 3
+            }, 
+            {
+                "code": "540228", 
+                "type": "add", 
+                "name": "白朗县", 
+                "level": 3
+            }, 
+            {
+                "code": "540234", 
+                "type": "add", 
+                "name": "吉隆县", 
+                "level": 3
+            }, 
+            {
+                "code": "540237", 
+                "type": "add", 
+                "name": "岗巴县", 
+                "level": 3
+            }, 
+            {
+                "code": "540231", 
+                "type": "add", 
+                "name": "定结县", 
+                "level": 3
+            }
+        ], 
+        "昌都市": [
+            {
+                "code": "540325", 
+                "type": "add", 
+                "name": "察雅县", 
+                "level": 3
+            }, 
+            {
+                "code": "540329", 
+                "type": "add", 
+                "name": "洛隆县", 
+                "level": 3
+            }, 
+            {
+                "code": "540324", 
+                "type": "add", 
+                "name": "丁青县", 
+                "level": 3
+            }, 
+            {
+                "code": "540323", 
+                "type": "add", 
+                "name": "类乌齐县", 
+                "level": 3
+            }, 
+            {
+                "code": "540328", 
+                "type": "add", 
+                "name": "芒康县", 
+                "level": 3
+            }, 
+            {
+                "code": "540302", 
+                "type": "add", 
+                "name": "卡若区", 
+                "level": 3
+            }, 
+            {
+                "code": "540300", 
+                "type": "add", 
+                "name": "昌都市", 
+                "level": 2
+            }, 
+            {
+                "code": "540321", 
+                "type": "add", 
+                "name": "江达县", 
+                "level": 3
+            }, 
+            {
+                "code": "540326", 
+                "type": "add", 
+                "name": "八宿县", 
+                "level": 3
+            }, 
+            {
+                "code": "540322", 
+                "type": "add", 
+                "name": "贡觉县", 
+                "level": 3
+            }, 
+            {
+                "code": "540330", 
+                "type": "add", 
+                "name": "边坝县", 
+                "level": 3
+            }, 
+            {
+                "code": "540327", 
+                "type": "add", 
+                "name": "左贡县", 
+                "level": 3
+            }
+        ], 
+        "日喀则地区": [
+            {
+                "code": "542338", 
+                "type": "del", 
+                "name": "岗巴县", 
+                "level": 3
+            }, 
+            {
+                "code": "542325", 
+                "type": "del", 
+                "name": "萨迦县", 
+                "level": 3
+            }, 
+            {
+                "code": "542322", 
+                "type": "del", 
+                "name": "南木林县", 
+                "level": 3
+            }, 
+            {
+                "code": "542323", 
+                "type": "del", 
+                "name": "江孜县", 
+                "level": 3
+            }, 
+            {
+                "code": "542334", 
+                "type": "del", 
+                "name": "亚东县", 
+                "level": 3
+            }, 
+            {
+                "code": "542326", 
+                "type": "del", 
+                "name": "拉孜县", 
+                "level": 3
+            }, 
+            {
+                "code": "542324", 
+                "type": "del", 
+                "name": "定日县", 
+                "level": 3
+            }, 
+            {
+                "code": "542328", 
+                "type": "del", 
+                "name": "谢通门县", 
+                "level": 3
+            }, 
+            {
+                "code": "542329", 
+                "type": "del", 
+                "name": "白朗县", 
+                "level": 3
+            }, 
+            {
+                "code": "542300", 
+                "type": "del", 
+                "name": "日喀则地区", 
+                "level": 2
+            }, 
+            {
+                "code": "542301", 
+                "type": "del", 
+                "name": "日喀则市", 
+                "level": 3
+            }, 
+            {
+                "code": "542336", 
+                "type": "del", 
+                "name": "聂拉木县", 
+                "level": 3
+            }, 
+            {
+                "code": "542331", 
+                "type": "del", 
+                "name": "康马县", 
+                "level": 3
+            }, 
+            {
+                "code": "542330", 
+                "type": "del", 
+                "name": "仁布县", 
+                "level": 3
+            }, 
+            {
+                "code": "542333", 
+                "type": "del", 
+                "name": "仲巴县", 
+                "level": 3
+            }, 
+            {
+                "code": "542332", 
+                "type": "del", 
+                "name": "定结县", 
+                "level": 3
+            }, 
+            {
+                "code": "542337", 
+                "type": "del", 
+                "name": "萨嘎县", 
+                "level": 3
+            }, 
+            {
+                "code": "542335", 
+                "type": "del", 
+                "name": "吉隆县", 
+                "level": 3
+            }, 
+            {
+                "code": "542327", 
+                "type": "del", 
+                "name": "昂仁县", 
+                "level": 3
+            }
+        ], 
+        "昌都地区": [
+            {
+                "code": "542128", 
+                "type": "del", 
+                "name": "左贡县", 
+                "level": 3
+            }, 
+            {
+                "code": "542121", 
+                "type": "del", 
+                "name": "昌都县", 
+                "level": 3
+            }, 
+            {
+                "code": "542122", 
+                "type": "del", 
+                "name": "江达县", 
+                "level": 3
+            }, 
+            {
+                "code": "542124", 
+                "type": "del", 
+                "name": "类乌齐县", 
+                "level": 3
+            }, 
+            {
+                "code": "542125", 
+                "type": "del", 
+                "name": "丁青县", 
+                "level": 3
+            }, 
+            {
+                "code": "542100", 
+                "type": "del", 
+                "name": "昌都地区", 
+                "level": 2
+            }, 
+            {
+                "code": "542127", 
+                "type": "del", 
+                "name": "八宿县", 
+                "level": 3
+            }, 
+            {
+                "code": "542123", 
+                "type": "del", 
+                "name": "贡觉县", 
+                "level": 3
+            }, 
+            {
+                "code": "542133", 
+                "type": "del", 
+                "name": "边坝县", 
+                "level": 3
+            }, 
+            {
+                "code": "542132", 
+                "type": "del", 
+                "name": "洛隆县", 
+                "level": 3
+            }, 
+            {
+                "code": "542126", 
+                "type": "del", 
+                "name": "察雅县", 
+                "level": 3
+            }, 
+            {
+                "code": "542129", 
+                "type": "del", 
+                "name": "芒康县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "四川省": {
+        "眉山市": [
+            {
+                "code": "511403", 
+                "type": "add", 
+                "name": "彭山区", 
+                "level": 3
+            }, 
+            {
+                "code": "511422", 
+                "type": "del", 
+                "name": "彭山县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "重庆市": [
+        {
+            "code": "500120", 
+            "type": "add", 
+            "name": "璧山区", 
+            "level": 2
+        }, 
+        {
+            "code": "500151", 
+            "type": "add", 
+            "name": "铜梁区", 
+            "level": 2
+        }, 
+        {
+            "code": "500224", 
+            "type": "del", 
+            "name": "铜梁县", 
+            "level": 2
+        }, 
+        {
+            "code": "500227", 
+            "type": "del", 
+            "name": "璧山县", 
+            "level": 2
+        }
+    ], 
+    "贵州省": {
+        "安顺市": [
+            {
+                "code": "520403", 
+                "type": "add", 
+                "name": "平坝区", 
+                "level": 3
+            }, 
+            {
+                "code": "520421", 
+                "type": "del", 
+                "name": "平坝县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "海南省": {
+        "三亚市": [
+            {
+                "code": "460204", 
+                "type": "add", 
+                "name": "天涯区", 
+                "level": 3
+            }, 
+            {
+                "code": "460202", 
+                "type": "add", 
+                "name": "海棠区", 
+                "level": 3
+            }, 
+            {
+                "code": "460203", 
+                "type": "add", 
+                "name": "吉阳区", 
+                "level": 3
+            }, 
+            {
+                "code": "460205", 
+                "type": "add", 
+                "name": "崖州区", 
+                "level": 3
+            }
+        ]
+    }, 
+    "江苏省": {
+        "连云港市": [
+            {
+                "code": "320707", 
+                "type": "add", 
+                "name": "赣榆区", 
+                "level": 3
+            }, 
+            {
+                "code": "320705", 
+                "type": "del", 
+                "name": "新浦区", 
+                "level": 3
+            }, 
+            {
+                "code": "320721", 
+                "type": "del", 
+                "name": "赣榆县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "云南省": {
+        "迪庆藏族自治州": [
+            {
+                "code": "533401", 
+                "type": "add", 
+                "name": "香格里拉市", 
+                "level": 3
+            }, 
+            {
+                "code": "533421", 
+                "type": "del", 
+                "name": "香格里拉县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "河北省": {
+        "石家庄市": [
+            {
+                "code": "130109", 
+                "type": "add", 
+                "name": "藁城区", 
+                "level": 3
+            }, 
+            {
+                "code": "130110", 
+                "type": "add", 
+                "name": "鹿泉区", 
+                "level": 3
+            }, 
+            {
+                "code": "130111", 
+                "type": "add", 
+                "name": "栾城区", 
+                "level": 3
+            }, 
+            {
+                "code": "130185", 
+                "type": "del", 
+                "name": "鹿泉市", 
+                "level": 3
+            }, 
+            {
+                "code": "130182", 
+                "type": "del", 
+                "name": "藁城市", 
+                "level": 3
+            }, 
+            {
+                "code": "130124", 
+                "type": "del", 
+                "name": "栾城县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "吉林省": {
+        "长春市": [
+            {
+                "code": "220113", 
+                "type": "add", 
+                "name": "九台区", 
+                "level": 3
+            }, 
+            {
+                "code": "220181", 
+                "type": "del", 
+                "name": "九台市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "year": "2013-2014", 
+    "陕西省": {
+        "西安市": [
+            {
+                "code": "610117", 
+                "type": "add", 
+                "name": "高陵区", 
+                "level": 3
+            }, 
+            {
+                "code": "610126", 
+                "type": "del", 
+                "name": "高陵县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "黑龙江省": {
+        "哈尔滨市": [
+            {
+                "code": "230113", 
+                "type": "add", 
+                "name": "双城区", 
+                "level": 3
+            }, 
+            {
+                "code": "230182", 
+                "type": "del", 
+                "name": "双城市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "湖北省": {
+        "十堰市": [
+            {
+                "code": "420304", 
+                "type": "add", 
+                "name": "郧阳区", 
+                "level": 3
+            }, 
+            {
+                "code": "420321", 
+                "type": "del", 
+                "name": "郧县", 
+                "level": 3
+            }
+        ]
+    }, 
+    "浙江省": {
+        "杭州市": [
+            {
+                "code": "330111", 
+                "type": "add", 
+                "name": "富阳区", 
+                "level": 3
+            }, 
+            {
+                "code": "330183", 
+                "type": "del", 
+                "name": "富阳市", 
+                "level": 3
+            }
+        ]
+    }, 
+    "广东省": {
+        "茂名市": [
+            {
+                "code": "440904", 
+                "type": "add", 
+                "name": "电白区", 
+                "level": 3
+            }, 
+            {
+                "code": "440903", 
+                "type": "del", 
+                "name": "茂港区", 
+                "level": 3
+            }, 
+            {
+                "code": "440923", 
+                "type": "del", 
+                "name": "电白县", 
+                "level": 3
+            }
+        ], 
+        "广州市": [
+            {
+                "code": "440117", 
+                "type": "add", 
+                "name": "从化区", 
+                "level": 3
+            }, 
+            {
+                "code": "440118", 
+                "type": "add", 
+                "name": "增城区", 
+                "level": 3
+            }, 
+            {
+                "code": "440116", 
+                "type": "del", 
+                "name": "萝岗区", 
+                "level": 3
+            }, 
+            {
+                "code": "440184", 
+                "type": "del", 
+                "name": "从化市", 
+                "level": 3
+            }, 
+            {
+                "code": "440183", 
+                "type": "del", 
+                "name": "增城市", 
+                "level": 3
+            }
+        ], 
+        "阳江市": [
+            {
+                "code": "441704", 
+                "type": "add", 
+                "name": "阳东区", 
+                "level": 3
+            }, 
+            {
+                "code": "441723", 
+                "type": "del", 
+                "name": "阳东县", 
+                "level": 3
+            }
+        ], 
+        "云浮市": [
+            {
+                "code": "445303", 
+                "type": "add", 
+                "name": "云安区", 
+                "level": 3
+            }, 
+            {
+                "code": "445323", 
+                "type": "del", 
+                "name": "云安县", 
+                "level": 3
+            }
+        ]
+    }
+}
